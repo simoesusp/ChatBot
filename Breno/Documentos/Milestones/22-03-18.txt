@@ -1,0 +1,7 @@
+- WebScrapping para Substantivos, Adjetivos e Advérbios;
+- Organizar arquivo de texto dos verbos;
+- Organizar bibliografia utilizada;
+- Adaptar o código para Programação Orientada a Objetos;
+- Usar os arquivos de texto para produção de frases;
+- Descobrir um método para fazer as frases produzidas terem um contexto;
+- Por fim, arrumar o relatório parcial com tudo feito até agora.
