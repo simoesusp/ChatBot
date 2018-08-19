@@ -1,582 +1,577 @@
-c1limpo c2limpa c3limpei c4limpou c5limparei c6limpará 
-c1animo c2anima c3animei c4animou c5animarei c6animará 
-c1abalo c2abala c3abalei c4abalou c5abalarei c6abalará 
-c1escondo c2esconde c3escondi c4escondeu c5esconderei c6esconderá 
-c1calo c2cala c3calei c4calou c5calarei c6calará 
-c1absolvo c2absolve c3absolvi c4absolveu c5absolverei c6absolverá 
-c1concordo c2concorda c3concordei c4concordou c5concordarei c6concordará 
-c1apaixono c2apaixona c3apaixonei c4apaixonou c5apaixonarei c6apaixonará 
-c1privo c2priva c3privei c4privou c5privarei c6privará 
-c1apago c2apaga c3apaguei c4apagou c5apagarei c6apagará 
-c1abaixo c2abaixa c3abaixei c4abaixou c5abaixarei c6abaixará 
-c1cedo c2cede c3cedi c4cedeu c5cederei c6cederá 
-c1considero c2considera c3considerei c4considerou c5considerarei c6considerará 
-c1proíbo c2proíbe c3proibi c4proibiu c5proibirei c6proibirá 
-c1paraliso c2paralisa c3paralisei c4paralisou c5paralisarei c6paralisará 
-c1autorizo c2autoriza c3autorizei c4autorizou c5autorizarei c6autorizará 
-c1maltrato c2maltrata c3maltratei c4maltratou c5maltratarei c6maltratará 
-c1acelero c2acelera c3acelerei c4acelerou c5acelerarei c6acelerará 
-c1apanho c2apanha c3apanhei c4apanhou c5apanharei c6apanhará 
-c1distendo c2distende c3distendi c4distendeu c5distenderei c6distenderá 
-c1alargo c2alarga c3alarguei c4alargou c5alargarei c6alargará 
-c1acrescento c2acrescenta c3acrescentei c4acrescentou c5acrescentarei c6acrescentará 
-c1elevo c2vo tuelevas eleeleva c3elevei c4elevou c5elevarei c6elevará 
-c1ergo c2ergue c3ergui c4ergueu c5erguerei c6erguerá
-c1recolho c2recolhe c3recolhi c4recolheu c5recolherei c6recolherá 
-c1encerro c2encerra c3encerrei c4encerrou c5encerrarei c6encerrará 
-c1ascendo c2ascende c3ascendi c4ascendeu c5ascenderei c6ascenderá 
-c1altero c2altera c3alterei c4alterou c5alterarei c6alterará 
-c1falsifico c2falsifica c3falsifiquei c4falsificou c5falsificarei c6falsificará 
-c1desvio c2desvia c3desviei c4desviou c5desviarei c6desviará  
-c1desestimulo c2desestimula c3desestimulei c4desestimulou c5desestimularei c6desestimulará 
-c1embelezo c2embeleza c3embelezei c4embelezou c5embelezarei c6embelezará 
-c1argumento c2argumenta c3argumentei c4argumentou c5argumentarei c6argumentará 
-c1alugo c2aluga c3aluguei c4alugou c5alugarei c6alugará 
-c1arrepio c2arrepia c3arrepiei c4arrepiou c5arrepiarei c6arrepiará 
-c1adormeço c2adormece c3adormeci c4adormeceu c5adormecerei c6adormecerá 
-c1adoto c2adota c3adotei c4adotou c5adotarei c6adotará 
-c1aceito c2aceita c3aceitei c4aceitou c5aceitarei c6aceitará 
-c1apreendo c2apreende c3apreendi c4apreendeu c5apreenderei c6apreenderá 
-c1emprego c2emprega c3empreguei c4empregou c5empregarei c6empregará 
-c1como c2come c3comi c4comeu c5comerei c6comerá 
-c1sigo c2segue c3segui c4seguiu c5seguirei c6seguirá 
-c1avalio c2avalia c3avaliei c4avaliou c5avaliarei c6avaliará 
-c1antecedo c2antecede c3antecedi c4antecedeu c5antecederei c6antecederá 
-c1concedo c2concede c3concedi c4concedeu c5concederei c6concederá 
-c1admito c2admite c3admiti c4admitiu c5admitirei c6admitirá  
-c1acuso c2acusa c3acusei c4acusou c5acusarei c6acusará 
-c1admito c2admite c3admiti c4admitiu c5admitirei c6admitirá 
-c1examino c2examina c3examinei c4examinou c5examinarei c6examinará 
-c1informo c2informa c3informei c4informou c5informarei c6informará 
-c1desvio c2desvia c3desviei c4desviou c5desviarei c6desviará 
-c1atraio c2atrai c3atraí c4atraiu c5atrairei c6atrairá 
-c1atiro c2atira c3atirei c4atirou c5atirarei c6atirará 
-c1desajusto c2desajusta c3desajustei c4desajustou c5desajustarei c6desajustará 
-c1comercio c2comercia c3comerciei c4comerciou c5comerciarei c6comerciará 
-c1bato c2bate c3bati c4bateu c5baterei c6baterá 
-c1apoio c2apoia c3apoiei c4apoiou c5apoiarei c6apoiará 
-c1atendo c2atende c3atendi c4atendeu c5atenderei c6atenderá 
-c1observo c2observa c3observei c4observou c5observarei c6observará 
-c1assisto c2assiste c3assisti c4assistiu c5assistirei c6assistirá 
-c1conheço c2conhece c3conheci c4conheceu c5conhecerei c6conhecerá 
-c1leio c2lê c3li c4leu c5lerei c6lerá 
-c1convivo c2convive c3convivi c4conviveu c5conviverei c6conviverá 
-c1amparo c2ampara c3amparei c4amparou c5ampararei c6amparará 
-c1preparo c2prepara c3preparei c4preparou c5prepararei c6preparará 
-c1disponho c2dispõe c3dispus c4dispôs c5disporei c6disporá 
-c1cumpro c2cumpre c3cumpri c4cumpriu c5cumprirei c6cumprirá 
-c1completo c2completa c3completei c4completou c5completarei c6completará 
-c1conservo c2conserva c3conservei c4conservou c5conservarei c6conservará 
-c1deixo c2deixa c3deixei c4deixou c5deixarei c6deixará 
-c1adiciono c2adiciona c3adicionei c4adicionou c5adicionarei c6adicionará 
-c1somo c2soma c3somei c4somou c5somarei c6somará 
-c1aprovo c2aprova c3aprovei c4aprovou c5aprovarei c6aprovará 
-c1encaminho c2encaminha c3encaminhei c4encaminhou c5encaminharei c6encaminhará 
-c1agito c2agita c3agitei c4agitou c5agitarei c6agitará 
-c1assalto c2assalta c3assaltei c4assaltou c5assaltarei c6assaltará 
-c1ataco c2ataca c3ataquei c4atacou c5atacarei c6atacará 
-c1agrido c2agride c3agredi c4agrediu c5agredirei c6agredirá 
-c1movo c2move c3movi c4moveu c5moverei c6moverá 
-c1abandono c2abandona c3abandonei c4abandonou c5abandonarei c6abandonará 
-c1dou c2dá c3dei c4deu c5darei c6dará  
-c1largo c2larga c3larguei c4largou c5largarei c6largará 
-c1espiono c2espiona c3espionei c4espionou c5espionarei c6espionará 
-c1restabeleço c2restabelece c3restabeleci c4restabeleceu c5restabelecerei c6restabelecerá 
-c1acredito c2acredita c3acreditei c4acreditou c5acreditarei c6acreditará 
-c1expiro c2expira c3expirei c4expirou c5expirarei c6expirará 
-c1condeno c2condena c3condenei c4condenou c5condenarei c6condenará 
-c1amo c2ama c3amei c4amou c5amarei c6amará 
-c1arranco c2arranca c3arranquei c4arrancou c5arrancarei c6arrancará 
-c1curo c2cura c3curei c4curou c5curarei c6curará 
-c1pratico c2pratica c3pratiquei c4praticou c5praticarei c6praticará 
-c1excluo c2exclui c3excluí c4excluiu c5excluirei c6excluirá 
-c1alongo c2alonga c3alonguei c4alongou c5alongarei c6alongará 
-c1arrumo c2arruma c3arrumei c4arrumou c5arrumarei c6arrumará  
-c1desajeito c2desajeita c3desajeitei c4desajeitou c5desajeitarei c6desajeitará 
-c1acondiciono c2acondiciona c3acondicionei c4acondicionou c5acondicionarei c6acondicionará 
-c1desacelero c2desacelera c3desacelerei c4desacelerou c5desacelerarei c6desacelerará 
-c1esquivo c2esquiva c3esquivei c4esquivou c5esquivarei c6esquivará 
-c1lembro c2lembra c3lembrei c4lembrou c5lembrarei c6lembrará 
-c1ensino c2ensina c3ensinei c4ensinou c5ensinarei c6ensinará 
-c1premio c2premia c3premiei c4premiou c5premiarei c6premiará 
-c1desconfio c2desconfia c3desconfiei c4desconfiou c5desconfiarei c6desconfiará 
-c1apuro c2apura c3apurei c4apurou c5apurarei c6apurará 
-c1defendo c2defende c3defendi c4defendeu c5defenderei c6defenderá 
-c1copio c2copia c3copiei c4copiou c5copiarei c6copiará 
-c1carrego c2carrega c3carreguei c4carregou c5carregarei c6carregará 
-c1adianto c2adianta c3adiantei c4adiantou c5adiantarei c6adiantará 
-c1administro c2administra c3administrei c4administrou c5administrarei c6administrará 
-c1comando c2comanda c3comandei c4comandou c5comandarei c6comandará 
-c1aciono c2aciona c3acionei c4acionou c5acionarei c6acionará 
-c1conto c2conta c3contei c4contou c5contarei c6contará 
-c1componho c2compõe c3compus c4compôs c5comporei c6comporá 
-c1mordo c2morde c3mordi c4mordeu c5morderei c6morderá 
-c1assopro c2assopra c3assoprei c4assoprou c5assoprarei c6assoprará 
-c1cavo c2cava c3cavei c4cavou c5cavarei c6cavará 
-c1giro c2gira c3girei c4girou c5girarei c6girará 
-c1aproveito c2aproveita c3aproveitei c4aproveitou c5aproveitarei c6aproveitará 
-c1reproduzo c2reproduz c3reproduzi c4reproduziu c5reproduzirei c6reproduzirá 
-c1extraio c2extrai c3extraí c4extraiu c5extrairei c6extrairá 
-c1alivio c2alivia c3aliviei c4aliviou c5aliviarei c6aliviará 
-c1apanho c2apanha c3apanhei c4apanhou c5apanharei c6apanhará   
-c1agradeço c2agradece c3agradeci c4agradeceu c5agradecerei c6agradecerá 
-c1ofendo c2ofende c3ofendi c4ofendeu c5ofenderei c6ofenderá 
-c1irrigo c2irriga c3irriguei c4irrigou c5irrigarei c6irrigará 
-c1ajoelho c2ajoelha c3ajoelhei c4ajoelhou c5ajoelharei c6ajoelhará 
-c1amarro c2amarra c3amarrei c4amarrou c5amarrarei c6amarrará
-c1apareço c2aparece c3apareci c4apareceu c5aparecerei c6aparecerá 
-c1resolvo c2resolve c3resolvi c4resolveu c5resolverei c6resolverá 
-c1obrigo c2obriga c3obriguei c4obrigou c5obrigarei c6obrigará 
-c1meço c2mede c3medi c4mediu c5medirei c6medirá
-c1compito c2compete c3competi c4competiu c5competirei c6competirá 
-c1elaboro c2elabora c3elaborei c4elaborou c5elaborarei c6elaborará 
-c1aspiro c2aspira c3aspirei c4aspirou c5aspirarei c6aspirará 
-c1exploro c2explora c3explorei c4explorou c5explorarei c6explorará 
-c1digo c2diz c3disse c4disse c5direi c6dirá 
-c1exibo c2exibe c3exibi c4exibiu c5exibirei c6exibirá 
-c1ando c2anda c3andei c4andou c5andarei c6andará 
-c1analiso c2analisa c3analisei c4analisou c5analisarei c6analisará 
-c1aconselho c2aconselha c3aconselhei c4aconselhou c5aconselharei c6aconselhará 
-c1contrasto c2contrasta c3contrastei c4contrastou c5contrastarei c6contrastará 
-c1anuncio c2anuncia c3anunciei c4anunciou c5anunciarei c6anunciará 
-c1comunico c2comunica c3comuniquei c4comunicou c5comunicarei c6comunicará 
-c1vou c2vai c3fui c4foi c5irei c6irá 
-c1chamo c2chama c3chamei c4chamou c5chamarei c6chamará 
-c1acordo c2acorda c3acordei c4acordou c5acordarei c6acordará 
-c1pioro c2piora c3piorei c4piorou c5piorarei c6piorará 
-c1aperto c2aperta c3apertei c4apertou c5apertarei c6apertará 
-c1contamino c2contamina c3contaminei c4contaminou c5contaminarei c6contaminará 
-c1atribuo c2atribui c3atribuí c4atribuiu c5atribuirei c6atribuirá 
-c1dou c2dá c3dei c4deu c5darei c6dará
-c1desço c2desce c3desci c4desceu c5descerei c6descerá 
-c1expando c2expande c3expandi c4expandiu c5expandirei c6expandirá 
-c1aposento c2aposenta c3aposentei c4aposentou c5aposentarei c6aposentará 
-c1hospedo c2hospeda c3hospedei c4hospedou c5hospedarei c6hospedará 
-c1aposto c2aposta c3apostei c4apostou c5apostarei c6apostará 
-c1arrisco c2arrisca c3arrisquei c4arriscou c5arriscarei c6arriscará 
-c1jogo c2joga c3joguei c4jogou c5jogarei c6jogará 
-c1desativo c2desativa c3desativei c4desativou c5desativarei c6desativará 
-c1armo c2arma c3armei c4armou c5armarei c6armará 
-c1arquivo c2arquiva c3arquivei c4arquivou c5arquivarei c6arquivará 
-c1arrasto c2arrasta c3arrastei c4arrastou c5arrastarei c6arrastará 
-c1puxo c2puxa c3puxei c4puxou c5puxarei c6puxará 
-c1consumo c2consome c3consumi c4consumiu c5consumirei c6consumirá 
-c1atrito c2atrita c3atritei c4atritou c5atritarei c6atritará  
-c1contorno c2contorna c3contornei c4contornou c5contornarei c6contornará 
-c1executo c2executa c3executei c4executou c5executarei c6executará 
-c1arroto c2arrota c3arrotei c4arrotou c5arrotarei c6arrotará 
-c1arrumo c2arruma c3arrumei c4arrumou c5arrumarei c6arrumará 
-c1articulo c2articula c3articulei c4articulou c5articularei c6articulará 
-c1comprimo c2comprime c3comprimi c4comprimiu c5comprimirei c6comprimirá 
-c1demoro c2demora c3demorei c4demorou c5demorarei c6demorará 
-c1custo c2custa c3custei c4custou c5custarei c6custará 
-c1atropelo c2atropela c3atropelei c4i tuatropelaste eleatropelou c5atropelarei c6atropelará 
-c1empurro c2empurra c3empurrei c4empurrou c5empurrarei c6empurrará 
-c1atualizo c2atualiza c3atualizei c4atualizou c5atualizarei c6atualizará  
-c1estaciono c2estaciona c3estacionei c4estacionou c5estacionarei c6estacionará 
-c1chego c2chega c3cheguei c4chegou c5chegarei c6chegará 
-c1disto c2dista c3distei c4distou c5distarei c6distará 
-c1assino c2assina c3assinei c4assinou c5assinarei c6assinará 
-c1ativo c2ativa c3ativei c4ativou c5ativarei c6ativará 
-c1acabo c2acaba c3acabei c4acabou c5acabarei c6acabará 
-c1absorvo c2absorve c3absorvi c4absorveu c5absorverei c6absorverá 
-c1beijo c2beija c3beijei c4beijou c5beijarei c6beijará 
-c1reduzo c2reduz c3reduzi c4reduziu c5reduzirei c6reduzirá 
-c1recomponho c2recompõe c3recompus c4recompôs c5recomporei c6recomporá 
-c1ronco c2ronca c3ronquei c4roncou c5roncarei c6roncará 
-c1bloqueio c2bloqueia c3bloqueei c4bloqueou c5bloquearei c6bloqueará 
-c1bocejo c2boceja c3bocejei c4bocejou c5bocejarei c6bocejará 
-c1boicoto c2boicota c3boicotei c4boicotou c5boicotarei c6boicotará 
-c1procuro c2procura c3procurei c4procurou c5procurarei c6procurará 
-c1boto c2bota c3botei c4botou c5botarei c6botará 
-c1blefo c2blefa c3blefei c4blefou c5blefarei c6blefará 
-c1busco c2busca c3busquei c4buscou c5buscarei c6buscará 
-c1liberto c2liberta c3libertei c4libertou c5libertarei c6libertará 
-c1adquiro c2adquire c3adquiri c4adquiriu c5adquirirei c6adquirirá 
-c1torno c2torna c3tornei c4tornou c5tornarei c6tornará 
-c1converto c2converte c3converti c4converteu c5converterei c6converterá 
-c1arruíno c2arruína c3arruinei c4arruinou c5arruinarei c6arruinará 
-c1peso c2pesa c3pesei c4pesou c5pesarei c6pesará 
-c1canto c2canta c3cantei c4cantou c5cantarei c6cantará 
-c1acaricio c2acaricia c3acariciei c4acariciou c5acariciarei c6acariciará 
-c1rio c2ri c3ri c4riu c5rirei c6rirá
-c1duvido c2duvida c3duvidei c4duvidou c5duvidarei c6duvidará 
-c1censuro c2censura c3censurei c4censurou c5censurarei c6censurará 
-c1continuo c2continua c3continuei c4continuou c5continuarei c6continuará 
-c1enfaixo c2enfaixa c3enfaixei c4enfaixou c5enfaixarei c6enfaixará 
-c1ligo c2liga c3liguei c4ligou c5ligarei c6ligará 
-c1cochilo c2cochila c3cochilei c4cochilou c5cochilarei c6cochilará 
-c1codifico c2codifica c3codifiquei c4codificou c5codificarei c6codificará 
-c1coleto c2coleta c3coletei c4coletou c5coletarei c6coletará 
-c1dependo c2depende c3dependi c4dependeu c5dependerei c6dependerá 
-c1descrevo c2descreve c3descrevi c4descreveu c5descreverei c6descreverá 
-c1cometo c2comete c3cometi c4cometeu c5cometerei c6cometerá 
-c1comprometo c2compromete c3comprometi c4comprometeu c5comprometerei c6comprometerá  
-c1confecciono c2confecciona c3confeccionei c4confeccionou c5confeccionarei c6confeccionará 
-c1caracterizo c2caracteriza c3caracterizei c4caracterizou c5caracterizarei c6caracterizará 
-c1afirmo c2afirma c3afirmei c4afirmou c5afirmarei c6afirmará 
-c1convido c2convida c3convidei c4convidou c5convidarei c6convidará 
-c1compreendo c2compreende c3compreendi c4compreendeu c5compreenderei c6compreenderá 
-c1alerto c2alerta c3alertei c4alertou c5alertarei c6alertará 
-c1contraio c2contrai c3contraí c4contraiu c5contrairei c6contrairá 
-c1credito c2credita c3creditei c4creditou c5creditarei c6creditará 
-c1crio c2cria c3criei c4criou c5criarei c6criará 
-c1fabrico c2fabrica c3fabriquei c4fabricou c5fabricarei c6fabricará 
-c1cubro c2cobre c3cobri c4cobriu c5cobrirei c6cobrirá 
-c1controlo c2controla c3controlei c4controlou c5controlarei c6controlará  
-c1decepciono c2decepciona c3decepcionei c4decepcionou c5decepcionarei c6decepcionará 
-c1decido c2decide c3decidi c4decidiu c5decidirei c6decidirá 
-c1decolo c2decola c3decolei c4decolou c5decolarei c6decolará 
-c1enfio c2enfia c3enfiei c4enfiou c5enfiarei c6enfiará  
-c1divulgo c2divulga c3divulguei c4divulgou c5divulgarei c6divulgará 
-c1decifro c2decifra c3decifrei c4decifrou c5decifrarei c6decifrará 
-c1bebo c2bebe c3bebi c4bebeu c5beberei c6beberá 
-c1corto c2corta c3cortei c4cortou c5cortarei c6cortará 
-c1afogo c2afoga c3afoguei c4afogou c5afogarei c6afogará 
-c1ardo c2arde c3ardi c4ardeu c5arderei c6arderá 
-c1desabilito c2desabilita c3desabilitei c4desabilitou c5desabilitarei c6desabilitará 
-c1carrego c2carrega c3carreguei c4carregou c5carregarei c6carregará  
-c1ajudo c2ajuda c3ajudei c4ajudou c5ajudarei c6ajudará 
-c1congelo c2congela c3congelei c4i tucongelaste elecongelou c5congelarei c6congelará 
-c1desarmo c2desarma c3desarmei c4desarmou c5desarmarei c6desarmará 
-c1desbloqueio c2desbloqueia c3desbloqueei c4desbloqueou c5desbloquearei c6desbloqueará 
-c1caio c2cai c3caí c4caiu c5cairei c6cairá 
-c1descaracterizo c2descaracteriza c3descaracterizei c4descaracterizou c5descaracterizarei c6descaracterizará 
-c1desconcentro c2desconcentra c3desconcentrei c4desconcentrou c5desconcentrarei c6desconcentrará 
-c1desconheço c2desconhece c3desconheci c4desconheceu c5desconhecerei c6desconhecerá 
-c1identifico c2identifica c3identifiquei c4identificou c5identificarei c6identificará 
-c1desconsidero c2desconsidera c3desconsiderei c4desconsiderou c5desconsiderarei c6desconsiderará 
-c1descontrolo c2descontrola c3descontrolei c4descontrolou c5descontrolarei c6descontrolará 
-c1desconverso c2desconversa c3desconversei c4desconversou c5desconversarei c6desconversará 
-c1desconvido c2desconvida c3desconvidei c4desconvidou c5desconvidarei c6desconvidará 
-c1contradigo c2contradiz c3contradisse c4contradisse c5contradirei c6contradirá 
-c1elimino c2elimina c3eliminei c4eliminou c5eliminarei c6eliminará 
-c1desembaralho c2desembaralha c3desembaralhei c4desembaralhou c5desembaralharei c6desembaralhará 
-c1aqueço c2aquece c3aqueci c4aqueceu c5aquecerei c6aquecerá  
-c1abro c2abre c3abri c4abriu c5abrirei c6abrirá 
-c1acho c2acha c3achei c4achou c5acharei c6achará 
-c1desabafo c2desabafa c3desabafei c4desabafou c5desabafarei c6desabafará 
-c1desapoio c2desapoia c3desapoiei c4desapoiou c5desapoiarei c6desapoiará 
-c1enferrujo c2enferruja c3enferrujei c4enferrujou c5enferrujarei c6enferrujará 
-c1demonstro c2demonstra c3demonstrei c4demonstrou c5demonstrarei c6demonstrará 
-c1confesso c2confessa c3confessei c4confessou c5confessarei c6confessará 
-c1desequilibro c2desequilibra c3desequilibrei c4desequilibrou c5desequilibrarei c6desequilibrará 
-c1equilibro c2equilibra c3equilibrei c4equilibrou c5equilibrarei c6equilibrará 
-c1desfilo c2desfila c3desfilei c4desfilou c5desfilarei c6desfilará 
-c1deformo c2deforma c3deformei c4deformou c5deformarei c6deformará 
-c1aprecio c2aprecia c3apreciei c4apreciou c5apreciarei c6apreciará 
-c1colo c2cola c3colei c4colou c5colarei c6colará 
-c1aliso c2alisa c3alisei c4alisou c5alisarei c6alisará 
-c1desloco c2desloca c3desloquei c4deslocou c5deslocarei c6deslocará 
-c1combino c2combina c3combinei c4combinou c5combinarei c6combinará 
-c1libero c2libera c3liberei c4liberou c5liberarei c6liberará  
-c1cato c2cata c3catei c4catou c5catarei c6catará 
-c1transfiro c2transfere c3transferi c4transferiu c5transferirei c6transferirá 
-c1descontamino c2descontamina c3descontaminei c4descontaminou c5descontaminarei c6descontaminará 
-c1atenuo c2atenua c3atenuei c4atenuou c5atenuarei c6atenuará 
-c1confidencio c2confidencia c3confidenciei c4confidenciou c5confidenciarei c6confidenciará 
-c1detecto c2detecta c3detectei c4detectou c5detectarei c6detectará 
-c1devo c2deve c3devi c4deveu c5deverei c6deverá 
-c1amplio c2amplia c3ampliei c4ampliou c5ampliarei c6ampliará 
-c1dobro c2dobra c3dobrei c4dobrou c5dobrarei c6dobrará 
-c1corro c2corre c3corri c4correu c5correrei c6correrá 
-c1coordeno c2coordena c3coordenei c4coordenou c5coordenarei c6coordenará 
-c1brigo c2briga c3briguei c4brigou c5brigarei c6brigará 
-c1desagrego c2desagrega c3desagreguei c4desagregou c5desagregarei c6desagregará 
-c1divido c2divide c3dividi c4dividiu c5dividirei c6dividirá 
-c1celebro c2bro tucelebras elecelebra c3celebrei c4brei tucelebraste elecelebrou c5celebrarei c6brarei tucelebrarás elecelebrará 
-c1dou c2dá c3dei c4deu c5darei c6dará 
-c1doo c2doa c3doei c4doou c5doarei c6doará 
-c1derivo c2deriva c3derivei c4derivou c5derivarei c6derivará 
-c1edito c2edita c3editei c4editou c5editarei c6editará 
-c1disciplino c2disciplina c3disciplinei c4disciplinou c5disciplinarei c6disciplinará 
-c1acerto c2acerta c3acertei c4acertou c5acertarei c6acertará 
-c1encaixo c2encaixa c3encaixei c4encaixou c5encaixarei c6encaixará 
-c1acumulo c2acumula c3acumulei c4acumulou c5acumularei c6acumulará 
-c1concentro c2concentra c3concentrei c4concentrou c5concentrarei c6concentrará 
-c1confronto c2confronta c3confrontei c4confrontou c5confrontarei c6confrontará 
-c1adoro c2adora c3adorei c4adorou c5adorarei c6adorará 
-c1acalmo c2acalma c3acalmei c4acalmou c5acalmarei c6acalmará 
-c1engano c2engana c3enganei c4enganou c5enganarei c6enganará 
-c1entro c2entra c3entrei c4entrou c5entrarei c6entrará 
-c1detenho c2detém c3detive c4deteve c5deterei c6deterá 
-c1acomodo c2acomoda c3acomodei c4acomodou c5acomodarei c6acomodará 
-c1dirijo c2dirige c3dirigi c4dirigiu c5dirigirei c6dirigirá 
-c1erro c2erra c3errei c4errou c5errarei c6errará 
-c1abrando c2abranda c3abrandei c4abrandou c5abrandarei c6abrandará 
-c1escrevo c2escreve c3escrevi c4escreveu c5escreverei c6escreverá 
-c1dispenso c2dispensa c3dispensei c4dispensou c5dispensarei c6dispensará 
-c1admiro c2admira c3admirei c4admirou c5admirarei c6admirará 
-c1arranho c2arranha c3arranhei c4arranhou c5arranharei c6arranhará 
-c1desfaço c2desfaz c3desfiz c4desfez c5desfarei c6desfará 
-c1alarmo c2alarma c3alarmei c4alarmou c5alarmarei c6alarmará 
-c1determino c2determina c3determinei c4determinou c5determinarei c6determinará 
-c1adivinho c2adivinha c3adivinhei c4adivinhou c5adivinharei c6adivinhará 
-c1confio c2confia c3confiei c4confiou c5confiarei c6confiará 
-c1respiro c2respira c3respirei c4respirou c5respirarei c6respirará 
-c1encosto c2encosta c3encostei c4encostou c5encostarei c6encostará 
-c1assinalo c2assinala c3assinalei c4assinalou c5assinalarei c6assinalará 
-c1desenho c2desenha c3desenhei c4desenhou c5desenharei c6desenhará 
-c1cesso c2cessa c3cessei c4cessou c5cessarei c6cessará 
-c1aguardo c2aguarda c3aguardei c4aguardou c5aguardarei c6aguardará 
-c1compareço c2comparece c3compareci c4compareceu c5comparecerei c6comparecerá 
-c1distribuo c2distribui c3distribuí c4distribuiu c5distribuirei c6distribuirá 
-c1beneficio c2beneficia c3beneficiei c4beneficiou c5beneficiarei c6beneficiará 
-c1conduzo c2conduz c3conduzi c4conduziu c5conduzirei c6conduzirá 
-c1estremeço c2estremece c3estremeci c4estremeceu c5estremecerei c6estremecerá 
-c1esgoto c2esgota c3esgotei c4esgotou c5esgotarei c6esgotará 
-c1desacredito c2desacredita c3desacreditei c4desacreditou c5desacreditarei c6desacreditará 
-c1desempenho c2desempenha c3desempenhei c4desempenhou c5desempenharei c6desempenhará 
-c1castigo c2castiga c3castiguei c4castigou c5castigarei c6castigará 
-c1exemplifico c2exemplifica c3exemplifiquei c4exemplificou c5exemplificarei c6exemplificará 
-c1ensaio c2ensaia c3ensaiei c4ensaiou c5ensaiarei c6ensaiará 
-c1arrebento c2arrebenta c3arrebentei c4arrebentou c5arrebentarei c6arrebentará 
-c1acendo c2acende c3acendi c4acendeu c5acenderei c6acenderá 
-c1anulo c2anula c3anulei c4anulou c5anularei c6anulará 
-c1atordoo c2atordoa c3atordoei c4atordoou c5atordoarei c6atordoará 
-c1aplico c2aplica c3apliquei c4aplicou c5aplicarei c6aplicará 
-c1vitamino c2vitamina c3vitaminei c4vitaminou c5vitaminarei c6vitaminará 
-c1miro c2mira c3mirei c4mirou c5mirarei c6mirará 
-c1estou c2está c3estive c4esteve c5estarei c6estará 
-c1compenso c2compensa c3compensei c4compensou c5compensarei c6compensará 
-c1coloco c2coloca c3coloquei c4colocou c5colocarei c6colocará 
-c1belisco c2belisca c3belisquei c4beliscou c5beliscarei c6beliscará 
-c1desenvolvo c2desenvolve c3desenvolvi c4desenvolveu c5desenvolverei c6desenvolverá 
-c1esvazo c2esvaza c3esvazei c4esvazou c5esvazarei c6esvazará 
-c1desocupo c2desocupa c3desocupei c4desocupou c5desocuparei c6desocupará 
-c1afasto c2afasta c3afastei c4afastou c5afastarei c6afastará 
-c1alterno c2alterna c3alternei c4alternou c5alternarei c6alternará 
-c1cuido c2cuida c3cuidei c4cuidou c5cuidarei c6cuidará  
-c1governo c2governa c3governei c4governou c5governarei c6governará 
-c1prefiro c2prefere c3preferi c4preferiu c5preferirei c6preferirá 
-c1confundo c2confunde c3confundi c4confundiu c5confundirei c6confundirá 
-c1cruzo c2cruza c3cruzei c4cruzou c5cruzarei c6cruzará 
-c1prevaleço c2prevalece c3prevaleci c4prevaleceu c5prevalecerei c6prevalecerá 
-c1sapateio c2sapateia c3sapateei c4sapateou c5sapatearei c6sapateará 
-c1amasso c2amassa c3amassei c4amassou c5amassarei c6amassará 
-c1trago c2traz c3trouxe c4trouxe c5trarei c6trará 
-c1atravesso c2atravessa c3atravessei c4atravessou c5atravessarei c6atravessará 
-c1desapareço c2desaparece c3desapareci c4desapareceu c5desaparecerei c6desaparecerá 
-c1adio c2adia c3adiei c4adiou c5adiarei c6adiará 
-c1mudo c2muda c3mudei c4mudou c5mudarei c6mudará 
-c1deito c2deita c3deitei c4deitou c5deitarei c6deitará 
-c1revoluciono c2revoluciona c3revolucionei c4revolucionou c5revolucionarei c6revolucionará 
-c1nado c2nada c3nadei c4nadou c5nadarei c6nadará 
-c1atrapalho c2atrapalha c3atrapalhei c4atrapalhou c5atrapalharei c6atrapalhará 
-c1pertenço c2pertence c3pertenci c4pertenceu c5pertencerei c6pertencerá 
-c1reviro c2revira c3revirei c4revirou c5revirarei c6revirará 
-c1enfrento c2enfrenta c3enfrentei c4enfrentou c5enfrentarei c6enfrentará 
-c1imprimo c2imprime c3imprimi c4imprimiu c5imprimirei c6imprimirá 
-c1carimbo c2carimba c3carimbei c4carimbou c5carimbarei c6carimbará 
-c1chumbo c2chumba c3chumbei c4chumbou c5chumbarei c6chumbará 
-c1digito c2digita c3digitei c4digitou c5digitarei c6digitará 
-c1balbucio c2balbucia c3balbuciei c4balbuciou c5balbuciarei c6balbuciará 
-c1evaporo c2evapora c3evaporei c4evaporou c5evaporarei c6evaporará 
-c1cancelo c2cancela c3cancelei c4i tucancelaste elecancelou c5cancelarei c6cancelará 
-c1concretizo c2concretiza c3concretizei c4concretizou c5concretizarei c6concretizará 
-c1confiro c2confere c3conferi c4conferiu c5conferirei c6conferirá 
-c1diversifico c2diversifica c3diversifiquei c4diversificou c5diversificarei c6diversificará 
-c1soco c2soca c3soquei c4socou c5socarei c6socará 
-c1entretenho c2entretém c3entretive c4entreteve c5entreterei c6entreterá 
-c1inspeciono c2inspeciona c3inspecionei c4inspecionou c5inspecionarei c6inspecionará 
-c1excedo c2excede c3excedi c4excedeu c5excederei c6excederá 
-c1assobio c2assobia c3assobiei c4assobiou c5assobiarei c6assobiará 
-c1apito c2apita c3apitei c4apitou c5apitarei c6apitará 
-c1refaço c2refaz c3refiz c4refez c5refarei c6refará 
-c1consolido c2consolida c3consolidei c4consolidou c5consolidarei c6consolidará 
-c1isolo c2isola c3isolei c4isolou c5isolarei c6isolará 
-c1higienizo c2higieniza c3higienizei c4higienizou c5higienizarei c6higienizará 
-c1afeto c2afeta c3afetei c4afetou c5afetarei c6afetará 
-c1decoro c2decora c3decorei c4decorou c5decorarei c6decorará 
-c1indago c2indaga c3indaguei c4indagou c5indagarei c6indagará 
-c1abatoco c2abatoca c3abatoquei c4abatocou c5abatocarei c6abatocará 
-c1complico c2complica c3compliquei c4complicou c5complicarei c6complicará 
-c1comprovo c2comprova c3comprovei c4comprovou c5comprovarei c6comprovará 
-c1corrijo c2corrige c3corrigi c4corrigiu c5corrigirei c6corrigirá 
-c1convoco c2convoca c3convoquei c4convocou c5convocarei c6convocará 
-c1clico c2clica c3cliquei c4clicou c5clicarei c6clicará 
-c1pago c2paga c3paguei c4pagou c5pagarei c6pagará 
-c1reescrevo c2reescreve c3reescrevi c4reescreveu c5reescreverei c6reescreverá 
-c1mereço c2merece c3mereci c4mereceu c5merecerei c6merecerá 
-c1descanso c2descansa c3descansei c4descansou c5descansarei c6descansará 
-c1recoloco c2recoloca c3recoloquei c4recolocou c5recolocarei c6recolocará 
-c1devolvo c2devolve c3devolvi c4devolveu c5devolverei c6devolverá  
-c1reconsidero c2reconsidera c3reconsiderei c4reconsiderou c5reconsiderarei c6reconsiderará 
-c1reconquisto c2reconquista c3reconquistei c4reconquistou c5reconquistarei c6reconquistará 
-c1prorrogo c2prorroga c3prorroguei c4prorrogou c5prorrogarei c6prorrogará 
-c1arremesso c2arremessa c3arremessei c4arremessou c5arremessarei c6arremessará 
-c1redistribuo c2redistribui c3redistribuí c4redistribuiu c5redistribuirei c6redistribuirá 
-c1afrouxo c2afrouxa c3afrouxei c4afrouxou c5afrouxarei c6afrouxará 
-c1assumo c2assume c3assumi c4assumiu c5assumirei c6assumirá 
-c1reimplanto c2reimplanta c3reimplantei c4reimplantou c5reimplantarei c6reimplantará 
-c1anoto c2anota c3anotei c4anotou c5anotarei c6anotará 
-c1regenero c2regenera c3regenerei c4regenerou c5regenerarei c6regenerará 
-c1atraso c2atrasa c3atrasei c4atrasou c5atrasarei c6atrasará 
-c1exprimo c2exprime c3exprimi c4exprimiu c5exprimirei c6exprimirá 
-c1recrio c2recria c3recriei c4recriou c5recriarei c6recriará 
-c1reconstruo c2reconstrói c3reconstruí c4reconstruiu c5reconstruirei c6reconstruirá 
-c1reaplico c2reaplica c3reapliquei c4reaplicou c5reaplicarei c6reaplicará 
-c1reedito c2reedita c3reeditei c4reeditou c5reeditarei c6reeditará 
-c1reconduzo c2reconduz c3reconduzi c4reconduziu c5reconduzirei c6reconduzirá 
-c1fico c2fica c3fiquei c4ficou c5ficarei c6ficará 
-c1evoco c2evoca c3evoquei c4evocou c5evocarei c6evocará  
-c1arranjo c2arranja c3arranjei c4arranjou c5arranjarei c6arranjará 
-c1cobro c2cobra c3cobrei c4cobrou c5cobrarei c6cobrará 
-c1reaproveito c2reaproveita c3reaproveitei c4reaproveitou c5reaproveitarei c6reaproveitará 
-c1recebo c2recebe c3recebi c4recebeu c5receberei c6receberá 
-c1insisto c2insiste c3insisti c4insistiu c5insistirei c6insistirá 
-c1cubro c2cobre c3cobri c4cobriu c5cobrirei c6cobrirá  
-c1readmito c2readmite c3readmiti c4readmitiu c5readmitirei c6readmitirá 
-c1desperto c2desperta c3despertei c4despertou c5despertarei c6despertará 
-c1falho c2falha c3falhei c4falhou c5falharei c6falhará 
-c1acompanho c2acompanha c3acompanhei c4acompanhou c5acompanharei c6acompanhará 
-c1arraso c2arrasa c3arrasei c4arrasou c5arrasarei c6arrasará 
-c1causo c2causa c3causei c4causou c5causarei c6causará 
-c1canso c2cansa c3cansei c4cansou c5cansarei c6cansará 
-c1banalizo c2banaliza c3banalizei c4banalizou c5banalizarei c6banalizará 
-c1cheiro c2cheira c3cheirei c4cheirou c5cheirarei c6cheirará 
-c1encanto c2encanta c3encantei c4encantou c5encantarei c6encantará 
-c1configuro c2configura c3configurei c4configurou c5configurarei c6configurará 
-c1faço c2faz c3fiz c4fez c5farei c6fará 
-c1equivalho c2equivale c3equivali c4equivaleu c5equivalerei c6equivalerá 
-c1ajeito c2ajeita c3ajeitei c4ajeitou c5ajeitarei c6ajeitará 
-c1abocanho c2abocanha c3abocanhei c4abocanhou c5abocanharei c6abocanhará 
-c1classifico c2classifica c3classifiquei c4classificou c5classificarei c6classificará 
-c1filtro c2filtra c3filtrei c4filtrou c5filtrarei c6filtrará  
-c1driblo c2dribla c3driblei c4driblou c5driblarei c6driblará 
-c1concentro c2concentra c3concentrei c4concentrou c5concentrarei c6concentrará  
-c1consulto c2consulta c3consultei c4consultou c5consultarei c6consultará 
-c1afundo c2afunda c3afundei c4afundou c5afundarei c6afundará 
-c1conquisto c2conquista c3conquistei c4conquistou c5conquistarei c6conquistará 
-c1ganho c2ganha c3ganhei c4ganhou c5ganharei c6ganhará 
-c1perco c2perde c3perdi c4perdeu c5perderei c6perderá 
-c1aparo c2apara c3aparei c4aparou c5apararei c6aparará 
-c1abrigo c2abriga c3abriguei c4abrigou c5abrigarei c6abrigará 
-c1desanimo c2desanima c3desanimei c4desanimou c5desanimarei c6desanimará 
-c1duplico c2duplica c3dupliquei c4duplicou c5duplicarei c6duplicará 
-c1engesso c2engessa c3engessei c4engessou c5engessarei c6engessará 
-c1concebo c2concebe c3concebi c4concebeu c5conceberei c6conceberá 
-c1aglutino c2aglutina c3aglutinei c4aglutinou c5aglutinarei c6aglutinará 
-c1cuspo c2cospe c3cuspi c4cuspiu c5cuspirei c6cuspirá 
-c1gravo c2grava c3gravei c4gravou c5gravarei c6gravará 
-c1agrego c2agrega c3agreguei c4agregou c5agregarei c6agregará 
-c1combato c2combate c3combati c4combateu c5combaterei c6combaterá 
-c1colho c2colhe c3colhi c4colheu c5colherei c6colherá 
-c1aconteço c2acontece c3aconteci c4aconteceu c5acontecerei c6acontecerá 
-c1agracio c2agracia c3agraciei c4agraciou c5agraciarei c6agraciará 
-c1inovo c2inova c3inovei c4inovou c5inovarei c6inovará 
-c1contesto c2contesta c3contestei c4contestou c5contestarei c6contestará 
-c1desprendo c2desprende c3desprendi c4desprendeu c5desprenderei c6desprenderá 
-c1cristalizo c2cristaliza c3cristalizei c4cristalizou c5cristalizarei c6cristalizará 
-c1caibo c2cabe c3coube c4coube c5caberei c6caberá 
-c1impermeabilizo c2impermeabiliza c3impermeabilizei c4impermeabilizou c5impermeabilizarei c6impermeabilizará 
-c1exporto c2exporta c3exportei c4exportou c5exportarei c6exportará 
-c1importo c2importa c3importei c4importou c5importarei c6importará 
-c1desaprovo c2desaprova c3desaprovei c4desaprovou c5desaprovarei c6desaprovará 
-c1inabilito c2inabilita c3inabilitei c4inabilitou c5inabilitarei c6inabilitará 
-c1incluo c2inclui c3incluí c4incluiu c5incluirei c6incluirá 
-c1infiltro c2infiltra c3infiltrei c4infiltrou c5infiltrarei c6infiltrará 
-c1interajo c2interage c3interagi c4interagiu c5interagirei c6interagirá 
-c1confino c2confina c3confinei c4confinou c5confinarei c6confinará 
-c1empreendo c2empreende c3empreendi c4empreendeu c5empreenderei c6empreenderá 
-c1interrogo c2interroga c3interroguei c4interrogou c5interrogarei c6interrogará 
-c1intimo c2intima c3intimei c4intimou c5intimarei c6intimará 
-c1inicio c2inicia c3iniciei c4iniciou c5iniciarei c6iniciará 
-c1hiberno c2hiberna c3hibernei c4hibernou c5hibernarei c6hibernará 
-c1cultivo c2cultiva c3cultivei c4cultivou c5cultivarei c6cultivará 
-c1gracejo c2graceja c3gracejei c4gracejou c5gracejarei c6gracejará 
-c1ajusto c2ajusta c3ajustei c4ajustou c5ajustarei c6ajustará 
-c1abrevio c2abrevia c3abreviei c4abreviou c5abreviarei c6abreviará 
-c1choro c2chora c3chorei c4chorou c5chorarei c6chorará 
-c1lacrimejo c2lacrimeja c3lacrimejei c4lacrimejou c5lacrimejarei c6lacrimejará 
-c1acidento c2acidenta c3acidentei c4acidentou c5acidentarei c6acidentará 
-c1alegro c2alegra c3alegrei c4alegrou c5alegrarei c6alegrará 
-c1alegro c2alegra c3alegrei c4alegrou c5alegrarei c6alegrará  
-c1levo c2leva c3levei c4levou c5levarei c6levará 
-c1chefio c2chefia c3chefiei c4chefiou c5chefiarei c6chefiará 
-c1aglomero c2aglomera c3aglomerei c4aglomerou c5aglomerarei c6aglomerará 
-c1brinco c2brinca c3brinquei c4brincou c5brincarei c6brincará 
-c1despacho c2despacha c3despachei c4despachou c5despacharei c6despachará 
-c1agencio c2agencia c3agenciei c4agenciou c5agenciarei c6agenciará 
-c1ajo c2age c3agi c4agiu c5agirei c6agirá  
-c1caio c2caia c3caiei c4caiou c5caiarei c6caiará 
-c1extingo c2extingue c3extingui c4extinguiu c5extinguirei c6extinguirá 
-c1inscrevo c2inscreve c3inscrevi c4inscreveu c5inscreverei c6inscreverá  
-c1maximizo c2maximiza c3maximizei c4maximizou c5maximizarei c6maximizará 
-c1cogito c2cogita c3cogitei c4cogitou c5cogitarei c6cogitará 
-c1aumento c2aumenta c3aumentei c4aumentou c5aumentarei c6aumentará 
-c1decremento c2decrementa c3decrementei c4decrementou c5decrementarei c6decrementará 
-c1celebro c2celebra c3celebrou c5celebrarei c6celebrará 
-c1figuro c2figura c3figurei c4figurou c5figurarei c6figurará  
-c1gesticulo c2gesticula c3gesticulei c4gesticulou c5gesticularei c6gesticulará 
-c1garimpo c2garimpa c3garimpei c4garimpou c5garimparei c6garimpará 
-c1diminuo c2diminui c3diminuí c4diminuiu c5diminuirei c6diminuirá 
-c1desejo c2deseja c3desejei c4desejou c5desejarei c6desejará 
-c1desidrato c2desidrata c3desidratei c4desidratou c5desidratarei c6desidratará 
-c1fantasio c2fantasia c3fantasiei c4fantasiou c5fantasiarei c6fantasiará 
-c1imunizo c2imuniza c3imunizei c4imunizou c5imunizarei c6imunizará 
-c1monitoro c2monitora c3monitorei c4monitorou c5monitorarei c6monitorará 
-c1enceno c2encena c3encenei c4encenou c5encenarei c6encenará 
-c1afino c2afina c3afinei c4afinou c5afinarei c6afinará 
-c1deliro c2delira c3delirei c4delirou c5delirarei c6delirará 
-c1capacito c2capacita c3capacitei c4capacitou c5capacitarei c6capacitará 
-c1alimento c2alimenta c3alimentei c4alimentou c5alimentarei c6alimentará 
-c1alucino c2alucina c3alucinei c4alucinou c5alucinarei c6alucinará 
-c1endivido c2endivida c3endividei c4endividou c5endividarei c6endividará 
-c1assombro c2assombra c3assombrei c4assombrou c5assombrarei c6assombrará 
-c1espio c2espia c3espiei c4espiou c5espiarei c6espiará 
-c1cego c2cega c3ceguei c4cegou c5cegarei c6cegará 
-c1contemplo c2contempla c3contemplei c4contemplou c5contemplarei c6contemplará 
-c1cuido c2cuida c3cuidei c4cuidou c5cuidarei c6cuidará 
-c1opino c2opina c3opinei c4opinou c5opinarei c6opinará 
-c1engrandeço c2engrandece c3engrandeci c4engrandeceu c5engrandecerei c6engrandecerá 
-c1careço c2carece c3careci c4careceu c5carecerei c6carecerá 
-c1correspondo c2corresponde c3correspondi c4correspondeu c5corresponderei c6corresponderá 
-c1aplaudo c2aplaude c3aplaudi c4aplaudiu c5aplaudirei c6aplaudirá  
-c1compartilho c2compartilha c3compartilhei c4compartilhou c5compartilharei c6compartilhará 
-c1passo c2passa c3passei c4passou c5passarei c6passará 
-c1indico c2indica c3indiquei c4indicou c5indicarei c6indicará 
-c1amostro c2amostra c3amostrei c4amostrou c5amostrarei c6amostrará 
-c1aborreço c2aborrece c3aborreci c4aborreceu c5aborrecerei c6aborrecerá 
-c1capto c2capta c3captei c4captou c5captarei c6captará 
-c1avisto c2avista c3avistei c4avistou c5avistarei c6avistará 
-c1individualizo c2individualiza c3individualizei c4individualizou c5individualizarei c6individualizará 
-c1convenço c2convence c3convenci c4convenceu c5convencerei c6convencerá 
-c1influencio c2influencia c3influenciei c4influenciou c5influenciarei c6influenciará 
-c1personalizo c2personaliza c3personalizei c4personalizou c5personalizarei c6personalizará 
-c1coloro c2colora c3colorei c4colorou c5colorarei c6colorará 
-c1agarro c2agarra c3agarrei c4agarrou c5agarrarei c6agarrará 
-c1aplaudo c2aplaude c3aplaudi c4aplaudiu c5aplaudirei c6aplaudirá 
-c1aponto c2aponta c3apontei c4apontou c5apontarei c6apontará 
-c1embebo c2embebe c3embebi c4embebeu c5embeberei c6embeberá 
-c1espalho c2espalha c3espalhei c4espalhou c5espalharei c6espalhará 
-c1clamo c2clama c3clamei c4clamou c5clamarei c6clamará 
-c1comento c2comenta c3comentei c4comentou c5comentarei c6comentará 
-c1agrado c2agrada c3agradei c4agradou c5agradarei c6agradará 
-c1aviso c2avisa c3avisei c4avisou c5avisarei c6avisará 
-c1discorro c2discorre c3discorri c4discorreu c5discorrerei c6discorrerá 
-c1planejo c2planeja c3planejei c4planejou c5planejarei c6planejará 
-c1achato c2achata c3achatei c4achatou c5achatarei c6achatará 
-c1apresento c2apresenta c3apresentei c4apresentou c5apresentarei c6apresentará 
-c1omito c2omite c3omiti c4omitiu c5omitirei c6omitirá 
-c1chuto c2chuta c3chutei c4chutou c5chutarei c6chutará 
-c1financio c2financia c3financiei c4financiou c5financiarei c6financiará 
-c1consumo c2consuma c3consumei c4consumou c5consumarei c6consumará 
-c1juro c2jura c3jurei c4jurou c5jurarei c6jurará 
-c1apregoo c2apregoa c3apregoei c4apregoou c5apregoarei c6apregoará 
-c1condiciono c2condiciona c3condicionei c4condicionou c5condicionarei c6condicionará 
-c1peço c2pede c3pedi c4pediu c5pedirei c6pedirá 
-c1prometo c2promete c3prometi c4prometeu c5prometerei c6prometerá 
-c1adéquo c2adéqua c3adequei c4adequou c5adequarei c6adequará 
-c1abasteço c2abastece c3abasteci c4abasteceu c5abastecerei c6abastecerá 
-c1atinjo c2atinge c3atingi c4atingiu c5atingirei c6atingirá 
-c1comovo c2comove c3comovi c4comoveu c5comoverei c6comoverá 
-c1percebo c2percebe c3percebi c4percebeu c5perceberei c6perceberá 
-c1batalho c2batalha c3batalhei c4batalhou c5batalharei c6batalhará 
-c1quantifico c2quantifica c3quantifiquei c4quantificou c5quantificarei c6quantificará 
-c1reflito c2reflete c3refleti c4refletiu c5refletirei c6refletirá 
-c1danifico c2danifica c3danifiquei c4danificou c5danificarei c6danificará 
-c1pulo c2pula c3pulei c4pulou c5pularei c6pulará 
-c1sujo c2suja c3sujei c4sujou c5sujarei c6sujará 
-c1destruo c2destrói c3destruí c4destruiu c5destruirei c6destruirá 
-c1sofistico c2sofistica c3sofistiquei c4sofisticou c5sofisticarei c6sofisticará
+c1limpo c2limpa c3limpei c4limpou c5limparei c6limpará d
+c1animo c2anima c3animei c4animou c5animarei c6animará d
+c1abalo c2abala c3abalei c4abalou c5abalarei c6abalará d
+c1escondo c2esconde c3escondi c4escondeu c5esconderei c6esconderá d 
+c1calo c2cala c3calei c4calou c5calarei c6calará d
+c1absolvo c2absolve c3absolvi c4absolveu c5absolverei c6absolverá d
+c1concordo c2concorda c3concordei c4concordou c5concordarei c6concordará d(com)
+c1apaixono c2apaixona c3apaixonei c4apaixonou c5apaixonarei c6apaixonará m d(por)
+c1privo c2priva c3privei c4privou c5privarei c6privará d
+c1apago c2apaga c3apaguei c4apagou c5apagarei c6apagará d
+c1abaixo c2abaixa c3abaixei c4abaixou c5abaixarei c6abaixará m i
+c1cedo c2cede c3cedi c4cedeu c5cederei c6cederá d
+c1considero c2considera c3considerei c4considerou c5considerarei c6considerará d
+c1proíbo c2proíbe c3proibi c4proibiu c5proibirei c6proibirá d
+c1paraliso c2paralisa c3paralisei c4paralisou c5paralisarei c6paralisará d
+c1autorizo c2autoriza c3autorizei c4autorizou c5autorizarei c6autorizará d
+c1maltrato c2maltrata c3maltratei c4maltratou c5maltratarei c6maltratará d
+c1acelero c2acelera c3acelerei c4acelerou c5acelerarei c6acelerará d
+c1apanho c2apanha c3apanhei c4apanhou c5apanharei c6apanhará i
+c1distendo c2distende c3distendi c4distendeu c5distenderei c6distenderá i
+c1alargo c2alarga c3alarguei c4alargou c5alargarei c6alargará d
+c1acrescento c2acrescenta c3acrescentei c4acrescentou c5acrescentarei c6acrescentará d
+c1elevo c2vo tuelevas eleeleva c3elevei c4elevou c5elevarei c6elevará d
+c1ergo c2ergue c3ergui c4ergueu c5erguerei c6erguerá d
+c1recolho c2recolhe c3recolhi c4recolheu c5recolherei c6recolherá d
+c1encerro c2encerra c3encerrei c4encerrou c5encerrarei c6encerrará d
+c1ascendo c2ascende c3ascendi c4ascendeu c5ascenderei c6ascenderá d
+c1altero c2altera c3alterei c4alterou c5alterarei c6alterará d
+c1falsifico c2falsifica c3falsifiquei c4falsificou c5falsificarei c6falsificará d
+c1desvio c2desvia c3desviei c4desviou c5desviarei c6desviará  d
+c1desestimulo c2desestimula c3desestimulei c4desestimulou c5desestimularei c6desestimulará d
+c1embelezo c2embeleza c3embelezei c4embelezou c5embelezarei c6embelezará d
+c1argumento c2argumenta c3argumentei c4argumentou c5argumentarei c6argumentará d
+c1alugo c2aluga c3aluguei c4alugou c5alugarei c6alugará d
+c1arrepio c2arrepia c3arrepiei c4arrepiou c5arrepiarei c6arrepiará d
+c1adormeço c2adormece c3adormeci c4adormeceu c5adormecerei c6adormecerá d
+c1adoto c2adota c3adotei c4adotou c5adotarei c6adotará d
+c1aceito c2aceita c3aceitei c4aceitou c5aceitarei c6aceitará d
+c1apreendo c2apreende c3apreendi c4apreendeu c5apreenderei c6apreenderá d
+c1emprego c2emprega c3empreguei c4empregou c5empregarei c6empregará d
+c1como c2come c3comi c4comeu c5comerei c6comerá d
+c1sigo c2segue c3segui c4seguiu c5seguirei c6seguirá d
+c1avalio c2avalia c3avaliei c4avaliou c5avaliarei c6avaliará d 
+c1antecedo c2antecede c3antecedi c4antecedeu c5antecederei c6antecederá d 
+c1concedo c2concede c3concedi c4concedeu c5concederei c6concederá d
+c1admito c2admite c3admiti c4admitiu c5admitirei c6admitirá  d
+c1acuso c2acusa c3acusei c4acusou c5acusarei c6acusará d
+c1admito c2admite c3admiti c4admitiu c5admitirei c6admitirá d 
+c1examino c2examina c3examinei c4examinou c5examinarei c6examinará d 
+c1informo c2informa c3informei c4informou c5informarei c6informará d
+c1desvio c2desvia c3desviei c4desviou c5desviarei c6desviará d
+c1atraio c2atrai c3atraí c4atraiu c5atrairei c6atrairá d
+c1atiro c2atira c3atirei c4atirou c5atirarei c6atirará d(contra)
+c1desajusto c2desajusta c3desajustei c4desajustou c5desajustarei c6desajustará d
+c1comercio c2comercia c3comerciei c4comerciou c5comerciarei c6comerciará d
+c1bato c2bate c3bati c4bateu c5baterei c6baterá d(em)
+c1apoio c2apoia c3apoiei c4apoiou c5apoiarei c6apoiará d
+c1atendo c2atende c3atendi c4atendeu c5atenderei c6atenderá d 
+c1observo c2observa c3observei c4observou c5observarei c6observará d 
+c1assisto c2assiste c3assisti c4assistiu c5assistirei c6assistirá d
+c1conheço c2conhece c3conheci c4conheceu c5conhecerei c6conhecerá d
+c1leio c2lê c3li c4leu c5lerei c6lerá d
+c1convivo c2convive c3convivi c4conviveu c5conviverei c6conviverá d 
+c1amparo c2ampara c3amparei c4amparou c5ampararei c6amparará d
+c1preparo c2prepara c3preparei c4preparou c5prepararei c6preparará d 
+c1disponho c2dispõe c3dispus c4dispôs c5disporei c6disporá d(de)
+c1cumpro c2cumpre c3cumpri c4cumpriu c5cumprirei c6cumprirá d(com)
+c1completo c2completa c3completei c4completou c5completarei c6completará d 
+c1conservo c2conserva c3conservei c4conservou c5conservarei c6conservará d
+c1deixo c2deixa c3deixei c4deixou c5deixarei c6deixará d
+c1adiciono c2adiciona c3adicionei c4adicionou c5adicionarei c6adicionará d 
+c1somo c2soma c3somei c4somou c5somarei c6somará d
+c1aprovo c2aprova c3aprovei c4aprovou c5aprovarei c6aprovará d 
+c1encaminho c2encaminha c3encaminhei c4encaminhou c5encaminharei c6encaminhará d
+c1agito c2agita c3agitei c4agitou c5agitarei c6agitará d
+c1assalto c2assalta c3assaltei c4assaltou c5assaltarei c6assaltará d 
+c1ataco c2ataca c3ataquei c4atacou c5atacarei c6atacará d
+c1agrido c2agride c3agredi c4agrediu c5agredirei c6agredirá d 
+c1movo c2move c3movi c4moveu c5moverei c6moverá d
+c1abandono c2abandona c3abandonei c4abandonou c5abandonarei c6abandonará d
+c1dou c2dá c3dei c4deu c5darei c6dará d
+c1largo c2larga c3larguei c4largou c5largarei c6largará d
+c1espiono c2espiona c3espionei c4espionou c5espionarei c6espionará d
+c1restabeleço c2restabelece c3restabeleci c4restabeleceu c5restabelecerei c6restabelecerá d
+c1acredito c2acredita c3acreditei c4acreditou c5acreditarei c6acreditará d(em)
+c1expiro c2expira c3expirei c4expirou c5expirarei c6expirará d
+c1condeno c2condena c3condenei c4condenou c5condenarei c6condenará d
+c1amo c2ama c3amei c4amou c5amarei c6amará d
+c1arranco c2arranca c3arranquei c4arrancou c5arrancarei c6arrancará d
+c1curo c2cura c3curei c4curou c5curarei c6curará d
+c1pratico c2pratica c3pratiquei c4praticou c5praticarei c6praticará d
+c1excluo c2exclui c3excluí c4excluiu c5excluirei c6excluirá d
+c1alongo c2alonga c3alonguei c4alongou c5alongarei c6alongará d
+c1arrumo c2arruma c3arrumei c4arrumou c5arrumarei c6arrumará d
+c1desajeito c2desajeita c3desajeitei c4desajeitou c5desajeitarei c6desajeitará d 
+c1acondiciono c2acondiciona c3acondicionei c4acondicionou c5acondicionarei c6acondicionará d 
+c1desacelero c2desacelera c3desacelerei c4desacelerou c5desacelerarei c6desacelerará d
+c1esquivo c2esquiva c3esquivei c4esquivou c5esquivarei c6esquivará d(de)
+c1lembro c2lembra c3lembrei c4lembrou c5lembrarei c6lembrará d(de)
+c1ensino c2ensina c3ensinei c4ensinou c5ensinarei c6ensinará d
+c1premio c2premia c3premiei c4premiou c5premiarei c6premiará d
+c1desconfio c2desconfia c3desconfiei c4desconfiou c5desconfiarei c6desconfiará d(de)
+c1apuro c2apura c3apurei c4apurou c5apurarei c6apurará d
+c1defendo c2defende c3defendi c4defendeu c5defenderei c6defenderá d
+c1copio c2copia c3copiei c4copiou c5copiarei c6copiará d
+c1carrego c2carrega c3carreguei c4carregou c5carregarei c6carregará d
+c1adianto c2adianta c3adiantei c4adiantou c5adiantarei c6adiantará d
+c1administro c2administra c3administrei c4administrou c5administrarei c6administrará d
+c1comando c2comanda c3comandei c4comandou c5comandarei c6comandará d
+c1aciono c2aciona c3acionei c4acionou c5acionarei c6acionará d
+c1conto c2conta c3contei c4contou c5contarei c6contará d
+c1componho c2compõe c3compus c4compôs c5comporei c6comporá d
+c1mordo c2morde c3mordi c4mordeu c5morderei c6morderá d
+c1assopro c2assopra c3assoprei c4assoprou c5assoprarei c6assoprará d
+c1cavo c2cava c3cavei c4cavou c5cavarei c6cavará d
+c1giro c2gira c3girei c4girou c5girarei c6girará d
+c1aproveito c2aproveita c3aproveitei c4aproveitou c5aproveitarei c6aproveitará d(de)
+c1reproduzo c2reproduz c3reproduzi c4reproduziu c5reproduzirei c6reproduzirá d
+c1extraio c2extrai c3extraí c4extraiu c5extrairei c6extrairá d
+c1alivio c2alivia c3aliviei c4aliviou c5aliviarei c6aliviará d
+c1apanho c2apanha c3apanhei c4apanhou c5apanharei c6apanhará d(de)
+c1agradeço c2agradece c3agradeci c4agradeceu c5agradecerei c6agradecerá d
+c1ofendo c2ofende c3ofendi c4ofendeu c5ofenderei c6ofenderá d
+c1irrigo c2irriga c3irriguei c4irrigou c5irrigarei c6irrigará d
+c1ajoelho c2ajoelha c3ajoelhei c4ajoelhou c5ajoelharei c6ajoelhará m d(a)
+c1amarro c2amarra c3amarrei c4amarrou c5amarrarei c6amarrará d
+c1apareço c2aparece c3apareci c4apareceu c5aparecerei c6aparecerá d
+c1resolvo c2resolve c3resolvi c4resolveu c5resolverei c6resolverá d
+c1obrigo c2obriga c3obriguei c4obrigou c5obrigarei c6obrigará d
+c1meço c2mede c3medi c4mediu c5medirei c6medirá d
+c1compito c2compete c3competi c4competiu c5competirei c6competirá d
+c1elaboro c2elabora c3elaborei c4elaborou c5elaborarei c6elaborará d
+c1aspiro c2aspira c3aspirei c4aspirou c5aspirarei c6aspirará d
+c1exploro c2explora c3explorei c4explorou c5explorarei c6explorará d
+c1digo c2diz c3disse c4disse c5direi c6dirá d
+c1exibo c2exibe c3exibi c4exibiu c5exibirei c6exibirá d
+c1ando c2anda c3andei c4andou c5andarei c6andará d
+c1analiso c2analisa c3analisei c4analisou c5analisarei c6analisará d
+c1aconselho c2aconselha c3aconselhei c4aconselhou c5aconselharei c6aconselhará d
+c1contrasto c2contrasta c3contrastei c4contrastou c5contrastarei c6contrastará d
+c1anuncio c2anuncia c3anunciei c4anunciou c5anunciarei c6anunciará d
+c1comunico c2comunica c3comuniquei c4comunicou c5comunicarei c6comunicará d
+c1vou c2vai c3fui c4foi c5irei c6irá d(a)
+c1chamo c2chama c3chamei c4chamou c5chamarei c6chamará d
+c1acordo c2acorda c3acordei c4acordou c5acordarei c6acordará d
+c1pioro c2piora c3piorei c4piorou c5piorarei c6piorará d
+c1aperto c2aperta c3apertei c4apertou c5apertarei c6apertará d
+c1contamino c2contamina c3contaminei c4contaminou c5contaminarei c6contaminará d
+c1atribuo c2atribui c3atribuí c4atribuiu c5atribuirei c6atribuirá d
+c1dou c2dá c3dei c4deu c5darei c6dará d
+c1desço c2desce c3desci c4desceu c5descerei c6descerá d(de)
+c1expando c2expande c3expandi c4expandiu c5expandirei c6expandirá d
+c1aposento c2aposenta c3aposentei c4aposentou c5aposentarei c6aposentará d
+c1hospedo c2hospeda c3hospedei c4hospedou c5hospedarei c6hospedará d
+c1aposto c2aposta c3apostei c4apostou c5apostarei c6apostará d
+c1arrisco c2arrisca c3arrisquei c4arriscou c5arriscarei c6arriscará d
+c1jogo c2joga c3joguei c4jogou c5jogarei c6jogará d(contra)
+c1desativo c2desativa c3desativei c4desativou c5desativarei c6desativará d
+c1armo c2arma c3armei c4armou c5armarei c6armará d
+c1arquivo c2arquiva c3arquivei c4arquivou c5arquivarei c6arquivará d
+c1arrasto c2arrasta c3arrastei c4arrastou c5arrastarei c6arrastará d
+c1puxo c2puxa c3puxei c4puxou c5puxarei c6puxará d
+c1consumo c2consome c3consumi c4consumiu c5consumirei c6consumirá d
+c1atrito c2atrita c3atritei c4atritou c5atritarei c6atritará d(com)
+c1contorno c2contorna c3contornei c4contornou c5contornarei c6contornará d
+c1executo c2executa c3executei c4executou c5executarei c6executará d
+c1arroto c2arrota c3arrotei c4arrotou c5arrotarei c6arrotará i
+c1arrumo c2arruma c3arrumei c4arrumou c5arrumarei c6arrumará d
+c1articulo c2articula c3articulei c4articulou c5articularei c6articulará d
+c1comprimo c2comprime c3comprimi c4comprimiu c5comprimirei c6comprimirá d
+c1demoro c2demora c3demorei c4demorou c5demorarei c6demorará i
+c1custo c2custa c3custei c4custou c5custarei c6custará d
+c1atropelo c2atropela c3atropelei c4atropelou c5atropelarei c6atropelará d
+c1empurro c2empurra c3empurrei c4empurrou c5empurrarei c6empurrará d
+c1atualizo c2atualiza c3atualizei c4atualizou c5atualizarei c6atualizará d
+c1estaciono c2estaciona c3estacionei c4estacionou c5estacionarei c6estacionará d(em) 
+c1chego c2chega c3cheguei c4chegou c5chegarei c6chegará d(a)
+c1disto c2dista c3distei c4distou c5distarei c6distará d(de)
+c1assino c2assina c3assinei c4assinou c5assinarei c6assinará d
+c1ativo c2ativa c3ativei c4ativou c5ativarei c6ativará d
+c1acabo c2acaba c3acabei c4acabou c5acabarei c6acabará d(com)
+c1absorvo c2absorve c3absorvi c4absorveu c5absorverei c6absorverá d
+c1beijo c2beija c3beijei c4beijou c5beijarei c6beijará d
+c1reduzo c2reduz c3reduzi c4reduziu c5reduzirei c6reduzirá d
+c1recomponho c2recompõe c3recompus c4recompôs c5recomporei c6recomporá d
+c1ronco c2ronca c3ronquei c4roncou c5roncarei c6roncará i
+c1bloqueio c2bloqueia c3bloqueei c4bloqueou c5bloquearei c6bloqueará d
+c1bocejo c2boceja c3bocejei c4bocejou c5bocejarei c6bocejará i
+c1boicoto c2boicota c3boicotei c4boicotou c5boicotarei c6boicotará d
+c1procuro c2procura c3procurei c4procurou c5procurarei c6procurará d
+c1boto c2bota c3botei c4botou c5botarei c6botará d
+c1blefo c2blefa c3blefei c4blefou c5blefarei c6blefará i
+c1busco c2busca c3busquei c4buscou c5buscarei c6buscará d
+c1liberto c2liberta c3libertei c4libertou c5libertarei c6libertará d
+c1adquiro c2adquire c3adquiri c4adquiriu c5adquirirei c6adquirirá d
+c1torno c2torna c3tornei c4tornou c5tornarei c6tornará d
+c1converto c2converte c3converti c4converteu c5converterei c6converterá d
+c1arruíno c2arruína c3arruinei c4arruinou c5arruinarei c6arruinará d
+c1peso c2pesa c3pesei c4pesou c5pesarei c6pesará d
+c1canto c2canta c3cantei c4cantou c5cantarei c6cantará d
+c1acaricio c2acaricia c3acariciei c4acariciou c5acariciarei c6acariciará d
+c1rio c2ri c3ri c4riu c5rirei c6rirá d(de)
+c1duvido c2duvida c3duvidei c4duvidou c5duvidarei c6duvidará d(de)
+c1censuro c2censura c3censurei c4censurou c5censurarei c6censurará d
+c1continuo c2continua c3continuei c4continuou c5continuarei c6continuará d
+c1enfaixo c2enfaixa c3enfaixei c4enfaixou c5enfaixarei c6enfaixará d
+c1ligo c2liga c3liguei c4ligou c5ligarei c6ligará d(para)
+c1cochilo c2cochila c3cochilei c4cochilou c5cochilarei c6cochilará i
+c1codifico c2codifica c3codifiquei c4codificou c5codificarei c6codificará d
+c1coleto c2coleta c3coletei c4coletou c5coletarei c6coletará d
+c1dependo c2depende c3dependi c4dependeu c5dependerei c6dependerá d(de)
+c1descrevo c2descreve c3descrevi c4descreveu c5descreverei c6descreverá d
+c1cometo c2comete c3cometi c4cometeu c5cometerei c6cometerá d
+c1comprometo c2compromete c3comprometi c4comprometeu c5comprometerei c6comprometerá d
+c1confecciono c2confecciona c3confeccionei c4confeccionou c5confeccionarei c6confeccionará d
+c1caracterizo c2caracteriza c3caracterizei c4caracterizou c5caracterizarei c6caracterizará d
+c1afirmo c2afirma c3afirmei c4afirmou c5afirmarei c6afirmará d
+c1convido c2convida c3convidei c4convidou c5convidarei c6convidará d
+c1compreendo c2compreende c3compreendi c4compreendeu c5compreenderei c6compreenderá d
+c1alerto c2alerta c3alertei c4alertou c5alertarei c6alertará d 
+c1contraio c2contrai c3contraí c4contraiu c5contrairei c6contrairá d
+c1credito c2credita c3creditei c4creditou c5creditarei c6creditará d
+c1crio c2cria c3criei c4criou c5criarei c6criará d
+c1fabrico c2fabrica c3fabriquei c4fabricou c5fabricarei c6fabricará d
+c1cubro c2cobre c3cobri c4cobriu c5cobrirei c6cobrirá d
+c1controlo c2controla c3controlei c4controlou c5controlarei c6controlará d
+c1decepciono c2decepciona c3decepcionei c4decepcionou c5decepcionarei c6decepcionará d
+c1decido c2decide c3decidi c4decidiu c5decidirei c6decidirá d
+c1decolo c2decola c3decolei c4decolou c5decolarei c6decolará d(de)
+c1enfio c2enfia c3enfiei c4enfiou c5enfiarei c6enfiará d
+c1divulgo c2divulga c3divulguei c4divulgou c5divulgarei c6divulgará d
+c1decifro c2decifra c3decifrei c4decifrou c5decifrarei c6decifrará d
+c1bebo c2bebe c3bebi c4bebeu c5beberei c6beberá d(de)
+c1corto c2corta c3cortei c4cortou c5cortarei c6cortará d
+c1afogo c2afoga c3afoguei c4afogou c5afogarei c6afogará d
+c1ardo c2arde c3ardi c4ardeu c5arderei c6arderá d
+c1desabilito c2desabilita c3desabilitei c4desabilitou c5desabilitarei c6desabilitará d
+c1carrego c2carrega c3carreguei c4carregou c5carregarei c6carregará d
+c1ajudo c2ajuda c3ajudei c4ajudou c5ajudarei c6ajudará d
+c1congelo c2congela c3congelei c4i tucongelaste elecongelou c5congelarei c6congelará d
+c1desarmo c2desarma c3desarmei c4desarmou c5desarmarei c6desarmará d
+c1desbloqueio c2desbloqueia c3desbloqueei c4desbloqueou c5desbloquearei c6desbloqueará d
+c1caio c2cai c3caí c4caiu c5cairei c6cairá d(de)
+c1descaracterizo c2descaracteriza c3descaracterizei c4descaracterizou c5descaracterizarei c6descaracterizará d
+c1desconcentro c2desconcentra c3desconcentrei c4desconcentrou c5desconcentrarei c6desconcentrará d
+c1desconheço c2desconhece c3desconheci c4desconheceu c5desconhecerei c6desconhecerá d
+c1identifico c2identifica c3identifiquei c4identificou c5identificarei c6identificará d
+c1desconsidero c2desconsidera c3desconsiderei c4desconsiderou c5desconsiderarei c6desconsiderará d
+c1descontrolo c2descontrola c3descontrolei c4descontrolou c5descontrolarei c6descontrolará d
+c1desconverso c2desconversa c3desconversei c4desconversou c5desconversarei c6desconversará d
+c1desconvido c2desconvida c3desconvidei c4desconvidou c5desconvidarei c6desconvidará d
+c1contradigo c2contradiz c3contradisse c4contradisse c5contradirei c6contradirá d
+c1elimino c2elimina c3eliminei c4eliminou c5eliminarei c6eliminará d
+c1desembaralho c2desembaralha c3desembaralhei c4desembaralhou c5desembaralharei c6desembaralhará d
+c1aqueço c2aquece c3aqueci c4aqueceu c5aquecerei c6aquecerá d
+c1abro c2abre c3abri c4abriu c5abrirei c6abrirá d
+c1acho c2acha c3achei c4achou c5acharei c6achará d
+c1desabafo c2desabafa c3desabafei c4desabafou c5desabafarei c6desabafará d(sobre)
+c1desapoio c2desapoia c3desapoiei c4desapoiou c5desapoiarei c6desapoiará d
+c1enferrujo c2enferruja c3enferrujei c4enferrujou c5enferrujarei c6enferrujará d
+c1demonstro c2demonstra c3demonstrei c4demonstrou c5demonstrarei c6demonstrará d
+c1confesso c2confessa c3confessei c4confessou c5confessarei c6confessará d
+c1desequilibro c2desequilibra c3desequilibrei c4desequilibrou c5desequilibrarei c6desequilibrará d
+c1equilibro c2equilibra c3equilibrei c4equilibrou c5equilibrarei c6equilibrará d
+c1desfilo c2desfila c3desfilei c4desfilou c5desfilarei c6desfilará i
+c1deformo c2deforma c3deformei c4deformou c5deformarei c6deformará d
+c1aprecio c2aprecia c3apreciei c4apreciou c5apreciarei c6apreciará d
+c1colo c2cola c3colei c4colou c5colarei c6colará d
+c1aliso c2alisa c3alisei c4alisou c5alisarei c6alisará d 
+c1desloco c2desloca c3desloquei c4deslocou c5deslocarei c6deslocará d 
+c1combino c2combina c3combinei c4combinou c5combinarei c6combinará d(com)
+c1libero c2libera c3liberei c4liberou c5liberarei c6liberará d
+c1cato c2cata c3catei c4catou c5catarei c6catará d
+c1transfiro c2transfere c3transferi c4transferiu c5transferirei c6transferirá d(de)
+c1descontamino c2descontamina c3descontaminei c4descontaminou c5descontaminarei c6descontaminará d
+c1atenuo c2atenua c3atenuei c4atenuou c5atenuarei c6atenuará d
+c1confidencio c2confidencia c3confidenciei c4confidenciou c5confidenciarei c6confidenciará d
+c1detecto c2detecta c3detectei c4detectou c5detectarei c6detectará d
+c1devo c2deve c3devi c4deveu c5deverei c6deverá d(a)
+c1amplio c2amplia c3ampliei c4ampliou c5ampliarei c6ampliará d
+c1dobro c2dobra c3dobrei c4dobrou c5dobrarei c6dobrará d
+c1corro c2corre c3corri c4correu c5correrei c6correrá i
+c1coordeno c2coordena c3coordenei c4coordenou c5coordenarei c6coordenará d
+c1brigo c2briga c3briguei c4brigou c5brigarei c6brigará d(com)
+c1desagrego c2desagrega c3desagreguei c4desagregou c5desagregarei c6desagregará d(de)
+c1divido c2divide c3dividi c4dividiu c5dividirei c6dividirá d
+c1celebro c2celebra c3celebrei c4celebrou c5celebrarei c6celebrará d
+c1dou c2dá c3dei c4deu c5darei c6dará d
+c1doo c2doa c3doei c4doou c5doarei c6doará d
+c1derivo c2deriva c3derivei c4derivou c5derivarei c6derivará d(de)
+c1edito c2edita c3editei c4editou c5editarei c6editará d
+c1disciplino c2disciplina c3disciplinei c4disciplinou c5disciplinarei c6disciplinará d
+c1acerto c2acerta c3acertei c4acertou c5acertarei c6acertará d
+c1encaixo c2encaixa c3encaixei c4encaixou c5encaixarei c6encaixará d
+c1acumulo c2acumula c3acumulei c4acumulou c5acumularei c6acumulará d
+c1concentro c2concentra c3concentrei c4concentrou c5concentrarei c6concentrará d
+c1confronto c2confronta c3confrontei c4confrontou c5confrontarei c6confrontará d
+c1adoro c2adora c3adorei c4adorou c5adorarei c6adorará d
+c1acalmo c2acalma c3acalmei c4acalmou c5acalmarei c6acalmará d
+c1engano c2engana c3enganei c4enganou c5enganarei c6enganará d
+c1entro c2entra c3entrei c4entrou c5entrarei c6entrará d(em)
+c1detenho c2detém c3detive c4deteve c5deterei c6deterá d
+c1acomodo c2acomoda c3acomodei c4acomodou c5acomodarei c6acomodará d
+c1dirijo c2dirige c3dirigi c4dirigiu c5dirigirei c6dirigirá d
+c1erro c2erra c3errei c4errou c5errarei c6errará d
+c1abrando c2abranda c3abrandei c4abrandou c5abrandarei c6abrandará d
+c1escrevo c2escreve c3escrevi c4escreveu c5escreverei c6escreverá d
+c1dispenso c2dispensa c3dispensei c4dispensou c5dispensarei c6dispensará d
+c1admiro c2admira c3admirei c4admirou c5admirarei c6admirará d
+c1arranho c2arranha c3arranhei c4arranhou c5arranharei c6arranhará d
+c1desfaço c2desfaz c3desfiz c4desfez c5desfarei c6desfará d
+c1alarmo c2alarma c3alarmei c4alarmou c5alarmarei c6alarmará d
+c1determino c2determina c3determinei c4determinou c5determinarei c6determinará d
+c1adivinho c2adivinha c3adivinhei c4adivinhou c5adivinharei c6adivinhará d
+c1confio c2confia c3confiei c4confiou c5confiarei c6confiará d(em)
+c1respiro c2respira c3respirei c4respirou c5respirarei c6respirará d
+c1encosto c2encosta c3encostei c4encostou c5encostarei c6encostará d(em)
+c1assinalo c2assinala c3assinalei c4assinalou c5assinalarei c6assinalará d
+c1desenho c2desenha c3desenhei c4desenhou c5desenharei c6desenhará d
+c1cesso c2cessa c3cessei c4cessou c5cessarei c6cessará d
+c1aguardo c2aguarda c3aguardei c4aguardou c5aguardarei c6aguardará d
+c1compareço c2comparece c3compareci c4compareceu c5comparecerei c6comparecerá d(a)
+c1distribuo c2distribui c3distribuí c4distribuiu c5distribuirei c6distribuirá d
+c1beneficio c2beneficia c3beneficiei c4beneficiou c5beneficiarei c6beneficiará d
+c1conduzo c2conduz c3conduzi c4conduziu c5conduzirei c6conduzirá d
+c1estremeço c2estremece c3estremeci c4estremeceu c5estremecerei c6estremecerá d
+c1esgoto c2esgota c3esgotei c4esgotou c5esgotarei c6esgotará d
+c1desacredito c2desacredita c3desacreditei c4desacreditou c5desacreditarei c6desacreditará d(de)
+c1desempenho c2desempenha c3desempenhei c4desempenhou c5desempenharei c6desempenhará d 
+c1castigo c2castiga c3castiguei c4castigou c5castigarei c6castigará d
+c1exemplifico c2exemplifica c3exemplifiquei c4exemplificou c5exemplificarei c6exemplificará d
+c1ensaio c2ensaia c3ensaiei c4ensaiou c5ensaiarei c6ensaiará d
+c1arrebento c2arrebenta c3arrebentei c4arrebentou c5arrebentarei c6arrebentará d
+c1acendo c2acende c3acendi c4acendeu c5acenderei c6acenderá d
+c1anulo c2anula c3anulei c4anulou c5anularei c6anulará d
+c1atordoo c2atordoa c3atordoei c4atordoou c5atordoarei c6atordoará d
+c1aplico c2aplica c3apliquei c4aplicou c5aplicarei c6aplicará d
+c1vitamino c2vitamina c3vitaminei c4vitaminou c5vitaminarei c6vitaminará d
+c1miro c2mira c3mirei c4mirou c5mirarei c6mirará d(em)
+c1estou c2está c3estive c4esteve c5estarei c6estará d(em)
+c1compenso c2compensa c3compensei c4compensou c5compensarei c6compensará d
+c1coloco c2coloca c3coloquei c4colocou c5colocarei c6colocará d
+c1belisco c2belisca c3belisquei c4beliscou c5beliscarei c6beliscará d
+c1desenvolvo c2desenvolve c3desenvolvi c4desenvolveu c5desenvolverei c6desenvolverá d
+c1esvazo c2esvaza c3esvazei c4esvazou c5esvazarei c6esvazará d
+c1desocupo c2desocupa c3desocupei c4desocupou c5desocuparei c6desocupará d
+c1afasto c2afasta c3afastei c4afastou c5afastarei c6afastará d
+c1alterno c2alterna c3alternei c4alternou c5alternarei c6alternará d
+c1cuido c2cuida c3cuidei c4cuidou c5cuidarei c6cuidará d(de)
+c1governo c2governa c3governei c4governou c5governarei c6governará d
+c1prefiro c2prefere c3preferi c4preferiu c5preferirei c6preferirá d
+c1confundo c2confunde c3confundi c4confundiu c5confundirei c6confundirá d 
+c1cruzo c2cruza c3cruzei c4cruzou c5cruzarei c6cruzará d
+c1prevaleço c2prevalece c3prevaleci c4prevaleceu c5prevalecerei c6prevalecerá d(sobre) 
+c1sapateio c2sapateia c3sapateei c4sapateou c5sapatearei c6sapateará d
+c1amasso c2amassa c3amassei c4amassou c5amassarei c6amassará d
+c1trago c2traz c3trouxe c4trouxe c5trarei c6trará d
+c1atravesso c2atravessa c3atravessei c4atravessou c5atravessarei c6atravessará d
+c1desapareço c2desaparece c3desapareci c4desapareceu c5desaparecerei c6desaparecerá d(de)
+c1adio c2adia c3adiei c4adiou c5adiarei c6adiará d
+c1mudo c2muda c3mudei c4mudou c5mudarei c6mudará d
+c1deito c2deita c3deitei c4deitou c5deitarei c6deitará d(em)
+c1revoluciono c2revoluciona c3revolucionei c4revolucionou c5revolucionarei c6revolucionará d 
+c1nado c2nada c3nadei c4nadou c5nadarei c6nadará i
+c1atrapalho c2atrapalha c3atrapalhei c4atrapalhou c5atrapalharei c6atrapalhará d
+c1pertenço c2pertence c3pertenci c4pertenceu c5pertencerei c6pertencerá d(a)
+c1reviro c2revira c3revirei c4revirou c5revirarei c6revirará d
+c1enfrento c2enfrenta c3enfrentei c4enfrentou c5enfrentarei c6enfrentará d
+c1imprimo c2imprime c3imprimi c4imprimiu c5imprimirei c6imprimirá d
+c1carimbo c2carimba c3carimbei c4carimbou c5carimbarei c6carimbará d
+c1digito c2digita c3digitei c4digitou c5digitarei c6digitará d
+c1evaporo c2evapora c3evaporei c4evaporou c5evaporarei c6evaporará d
+c1cancelo c2cancela c3cancelei c4cancelou c5cancelarei c6cancelará d
+c1concretizo c2concretiza c3concretizei c4concretizou c5concretizarei c6concretizará d
+c1confiro c2confere c3conferi c4conferiu c5conferirei c6conferirá d
+c1diversifico c2diversifica c3diversifiquei c4diversificou c5diversificarei c6diversificará d
+c1soco c2soca c3soquei c4socou c5socarei c6socará d
+c1entretenho c2entretém c3entretive c4entreteve c5entreterei c6entreterá d
+c1inspeciono c2inspeciona c3inspecionei c4inspecionou c5inspecionarei c6inspecionará d
+c1excedo c2excede c3excedi c4excedeu c5excederei c6excederá d
+c1assobio c2assobia c3assobiei c4assobiou c5assobiarei c6assobiará d
+c1apito c2apita c3apitei c4apitou c5apitarei c6apitará d
+c1refaço c2refaz c3refiz c4refez c5refarei c6refará d
+c1consolido c2consolida c3consolidei c4consolidou c5consolidarei c6consolidará d
+c1isolo c2isola c3isolei c4isolou c5isolarei c6isolará d
+c1higienizo c2higieniza c3higienizei c4higienizou c5higienizarei c6higienizará d
+c1afeto c2afeta c3afetei c4afetou c5afetarei c6afetará d
+c1decoro c2decora c3decorei c4decorou c5decorarei c6decorará d
+c1indago c2indaga c3indaguei c4indagou c5indagarei c6indagará d(sobre)
+c1complico c2complica c3compliquei c4complicou c5complicarei c6complicará d
+c1comprovo c2comprova c3comprovei c4comprovou c5comprovarei c6comprovará d
+c1corrijo c2corrige c3corrigi c4corrigiu c5corrigirei c6corrigirá d
+c1convoco c2convoca c3convoquei c4convocou c5convocarei c6convocará d
+c1clico c2clica c3cliquei c4clicou c5clicarei c6clicará d
+c1pago c2paga c3paguei c4pagou c5pagarei c6pagará d
+c1reescrevo c2reescreve c3reescrevi c4reescreveu c5reescreverei c6reescreverá d
+c1mereço c2merece c3mereci c4mereceu c5merecerei c6merecerá d
+c1descanso c2descansa c3descansei c4descansou c5descansarei c6descansará d(de)
+c1recoloco c2recoloca c3recoloquei c4recolocou c5recolocarei c6recolocará d
+c1devolvo c2devolve c3devolvi c4devolveu c5devolverei c6devolverá d
+c1reconsidero c2reconsidera c3reconsiderei c4reconsiderou c5reconsiderarei c6reconsiderará d 
+c1reconquisto c2reconquista c3reconquistei c4reconquistou c5reconquistarei c6reconquistará d
+c1prorrogo c2prorroga c3prorroguei c4prorrogou c5prorrogarei c6prorrogará d
+c1arremesso c2arremessa c3arremessei c4arremessou c5arremessarei c6arremessará d 
+c1redistribuo c2redistribui c3redistribuí c4redistribuiu c5redistribuirei c6redistribuirá d
+c1afrouxo c2afrouxa c3afrouxei c4afrouxou c5afrouxarei c6afrouxará d
+c1assumo c2assume c3assumi c4assumiu c5assumirei c6assumirá d
+c1reimplanto c2reimplanta c3reimplantei c4reimplantou c5reimplantarei c6reimplantará d
+c1anoto c2anota c3anotei c4anotou c5anotarei c6anotará d
+c1regenero c2regenera c3regenerei c4regenerou c5regenerarei c6regenerará d
+c1atraso c2atrasa c3atrasei c4atrasou c5atrasarei c6atrasará d
+c1exprimo c2exprime c3exprimi c4exprimiu c5exprimirei c6exprimirá d
+c1recrio c2recria c3recriei c4recriou c5recriarei c6recriará d
+c1reconstruo c2reconstrói c3reconstruí c4reconstruiu c5reconstruirei c6reconstruirá d
+c1reaplico c2reaplica c3reapliquei c4reaplicou c5reaplicarei c6reaplicará d
+c1reedito c2reedita c3reeditei c4reeditou c5reeditarei c6reeditará d
+c1reconduzo c2reconduz c3reconduzi c4reconduziu c5reconduzirei c6reconduzirá d
+c1fico c2fica c3fiquei c4ficou c5ficarei c6ficará d(em)
+c1arranjo c2arranja c3arranjei c4arranjou c5arranjarei c6arranjará d
+c1cobro c2cobra c3cobrei c4cobrou c5cobrarei c6cobrará d(de)
+c1reaproveito c2reaproveita c3reaproveitei c4reaproveitou c5reaproveitarei c6reaproveitará d
+c1recebo c2recebe c3recebi c4recebeu c5receberei c6receberá d
+c1insisto c2insiste c3insisti c4insistiu c5insistirei c6insistirá i
+c1cubro c2cobre c3cobri c4cobriu c5cobrirei c6cobrirá d
+c1readmito c2readmite c3readmiti c4readmitiu c5readmitirei c6readmitirá d
+c1desperto c2desperta c3despertei c4despertou c5despertarei c6despertará d 
+c1falho c2falha c3falhei c4falhou c5falharei c6falhará i
+c1acompanho c2acompanha c3acompanhei c4acompanhou c5acompanharei c6acompanhará d 
+c1arraso c2arrasa c3arrasei c4arrasou c5arrasarei c6arrasará d
+c1causo c2causa c3causei c4causou c5causarei c6causará d
+c1canso c2cansa c3cansei c4cansou c5cansarei c6cansará d
+c1banalizo c2banaliza c3banalizei c4banalizou c5banalizarei c6banalizará d
+c1cheiro c2cheira c3cheirei c4cheirou c5cheirarei c6cheirará d
+c1encanto c2encanta c3encantei c4encantou c5encantarei c6encantará d
+c1configuro c2configura c3configurei c4configurou c5configurarei c6configurará d
+c1faço c2faz c3fiz c4fez c5farei c6fará d
+c1equivalho c2equivale c3equivali c4equivaleu c5equivalerei c6equivalerá d(a)
+c1ajeito c2ajeita c3ajeitei c4ajeitou c5ajeitarei c6ajeitará d
+c1abocanho c2abocanha c3abocanhei c4abocanhou c5abocanharei c6abocanhará d
+c1classifico c2classifica c3classifiquei c4classificou c5classificarei c6classificará d
+c1filtro c2filtra c3filtrei c4filtrou c5filtrarei c6filtrará d
+c1driblo c2dribla c3driblei c4driblou c5driblarei c6driblará d
+c1concentro c2concentra c3concentrei c4concentrou c5concentrarei c6concentrará d
+c1consulto c2consulta c3consultei c4consultou c5consultarei c6consultará d
+c1afundo c2afunda c3afundei c4afundou c5afundarei c6afundará d
+c1conquisto c2conquista c3conquistei c4conquistou c5conquistarei c6conquistará d
+c1ganho c2ganha c3ganhei c4ganhou c5ganharei c6ganhará d
+c1perco c2perde c3perdi c4perdeu c5perderei c6perderá d
+c1aparo c2apara c3aparei c4aparou c5apararei c6aparará d
+c1abrigo c2abriga c3abriguei c4abrigou c5abrigarei c6abrigará d
+c1desanimo c2desanima c3desanimei c4desanimou c5desanimarei c6desanimará d
+c1duplico c2duplica c3dupliquei c4duplicou c5duplicarei c6duplicará d
+c1engesso c2engessa c3engessei c4engessou c5engessarei c6engessará d
+c1concebo c2concebe c3concebi c4concebeu c5conceberei c6conceberá d
+c1aglutino c2aglutina c3aglutinei c4aglutinou c5aglutinarei c6aglutinará d
+c1cuspo c2cospe c3cuspi c4cuspiu c5cuspirei c6cuspirá d(em)
+c1gravo c2grava c3gravei c4gravou c5gravarei c6gravará d
+c1agrego c2agrega c3agreguei c4agregou c5agregarei c6agregará d(a)
+c1combato c2combate c3combati c4combateu c5combaterei c6combaterá d
+c1colho c2colhe c3colhi c4colheu c5colherei c6colherá d
+c1aconteço c2acontece c3aconteci c4aconteceu c5acontecerei c6acontecerá i
+c1agracio c2agracia c3agraciei c4agraciou c5agraciarei c6agraciará d
+c1inovo c2inova c3inovei c4inovou c5inovarei c6inovará d
+c1contesto c2contesta c3contestei c4contestou c5contestarei c6contestará d
+c1desprendo c2desprende c3desprendi c4desprendeu c5desprenderei c6desprenderá m d(de)
+c1cristalizo c2cristaliza c3cristalizei c4cristalizou c5cristalizarei c6cristalizará d
+c1caibo c2cabe c3coube c4coube c5caberei c6caberá d(em)
+c1impermeabilizo c2impermeabiliza c3impermeabilizei c4impermeabilizou c5impermeabilizarei c6impermeabilizará d
+c1exporto c2exporta c3exportei c4exportou c5exportarei c6exportará d
+c1importo c2importa c3importei c4importou c5importarei c6importará d
+c1desaprovo c2desaprova c3desaprovei c4desaprovou c5desaprovarei c6desaprovará d
+c1inabilito c2inabilita c3inabilitei c4inabilitou c5inabilitarei c6inabilitará d
+c1incluo c2inclui c3incluí c4incluiu c5incluirei c6incluirá d
+c1infiltro c2infiltra c3infiltrei c4infiltrou c5infiltrarei c6infiltrará d
+c1interajo c2interage c3interagi c4interagiu c5interagirei c6interagirá d(com)
+c1confino c2confina c3confinei c4confinou c5confinarei c6confinará d
+c1empreendo c2empreende c3empreendi c4empreendeu c5empreenderei c6empreenderá d
+c1interrogo c2interroga c3interroguei c4interrogou c5interrogarei c6interrogará d
+c1intimo c2intima c3intimei c4intimou c5intimarei c6intimará d
+c1inicio c2inicia c3iniciei c4iniciou c5iniciarei c6iniciará d
+c1hiberno c2hiberna c3hibernei c4hibernou c5hibernarei c6hibernará d
+c1cultivo c2cultiva c3cultivei c4cultivou c5cultivarei c6cultivará d
+c1gracejo c2graceja c3gracejei c4gracejou c5gracejarei c6gracejará d
+c1ajusto c2ajusta c3ajustei c4ajustou c5ajustarei c6ajustará d
+c1abrevio c2abrevia c3abreviei c4abreviou c5abreviarei c6abreviará d
+c1choro c2chora c3chorei c4chorou c5chorarei c6chorará i
+c1lacrimejo c2lacrimeja c3lacrimejei c4lacrimejou c5lacrimejarei c6lacrimejará i
+c1acidento c2acidenta c3acidentei c4acidentou c5acidentarei c6acidentará d
+c1alegro c2alegra c3alegrei c4alegrou c5alegrarei c6alegrará d
+c1levo c2leva c3levei c4levou c5levarei c6levará d
+c1chefio c2chefia c3chefiei c4chefiou c5chefiarei c6chefiará d
+c1aglomero c2aglomera c3aglomerei c4aglomerou c5aglomerarei c6aglomerará d
+c1brinco c2brinca c3brinquei c4brincou c5brincarei c6brincará d(com)
+c1despacho c2despacha c3despachei c4despachou c5despacharei c6despachará d
+c1agencio c2agencia c3agenciei c4agenciou c5agenciarei c6agenciará d
+c1ajo c2age c3agi c4agiu c5agirei c6agirá i
+c1caio c2caia c3caiei c4caiou c5caiarei c6caiará i
+c1extingo c2extingue c3extingui c4extinguiu c5extinguirei c6extinguirá d
+c1inscrevo c2inscreve c3inscrevi c4inscreveu c5inscreverei c6inscreverá m d(em)
+c1maximizo c2maximiza c3maximizei c4maximizou c5maximizarei c6maximizará d
+c1cogito c2cogita c3cogitei c4cogitou c5cogitarei c6cogitará d
+c1aumento c2aumenta c3aumentei c4aumentou c5aumentarei c6aumentará d
+c1decremento c2decrementa c3decrementei c4decrementou c5decrementarei c6decrementará d
+c1celebro c2celebra c3celebrou c5celebrarei c6celebrará d
+c1figuro c2figura c3figurei c4figurou c5figurarei c6figurará d(em)
+c1gesticulo c2gesticula c3gesticulei c4gesticulou c5gesticularei c6gesticulará d(com)
+c1garimpo c2garimpa c3garimpei c4garimpou c5garimparei c6garimpará d
+c1diminuo c2diminui c3diminuí c4diminuiu c5diminuirei c6diminuirá d
+c1desejo c2deseja c3desejei c4desejou c5desejarei c6desejará d
+c1desidrato c2desidrata c3desidratei c4desidratou c5desidratarei c6desidratará d
+c1fantasio c2fantasia c3fantasiei c4fantasiou c5fantasiarei c6fantasiará d
+c1imunizo c2imuniza c3imunizei c4imunizou c5imunizarei c6imunizará d
+c1monitoro c2monitora c3monitorei c4monitorou c5monitorarei c6monitorará d
+c1enceno c2encena c3encenei c4encenou c5encenarei c6encenará d
+c1afino c2afina c3afinei c4afinou c5afinarei c6afinará d
+c1deliro c2delira c3delirei c4delirou c5delirarei c6delirará d(sobre)
+c1capacito c2capacita c3capacitei c4capacitou c5capacitarei c6capacitará d
+c1alimento c2alimenta c3alimentei c4alimentou c5alimentarei c6alimentará d
+c1alucino c2alucina c3alucinei c4alucinou c5alucinarei c6alucinará d(sobre)
+c1endivido c2endivida c3endividei c4endividou c5endividarei c6endividará d
+c1assombro c2assombra c3assombrei c4assombrou c5assombrarei c6assombrará d
+c1espio c2espia c3espiei c4espiou c5espiarei c6espiará d
+c1cego c2cega c3ceguei c4cegou c5cegarei c6cegará d
+c1contemplo c2contempla c3contemplei c4contemplou c5contemplarei c6contemplará d
+c1cuido c2cuida c3cuidei c4cuidou c5cuidarei c6cuidará d(de)
+c1opino c2opina c3opinei c4opinou c5opinarei c6opinará d(sobre)
+c1engrandeço c2engrandece c3engrandeci c4engrandeceu c5engrandecerei c6engrandecerá d
+c1careço c2carece c3careci c4careceu c5carecerei c6carecerá d(de)
+c1correspondo c2corresponde c3correspondi c4correspondeu c5corresponderei c6corresponderá d(a)
+c1aplaudo c2aplaude c3aplaudi c4aplaudiu c5aplaudirei c6aplaudirá d
+c1compartilho c2compartilha c3compartilhei c4compartilhou c5compartilharei c6compartilhará d
+c1passo c2passa c3passei c4passou c5passarei c6passará d
+c1indico c2indica c3indiquei c4indicou c5indicarei c6indicará d
+c1amostro c2amostra c3amostrei c4amostrou c5amostrarei c6amostrará d
+c1aborreço c2aborrece c3aborreci c4aborreceu c5aborrecerei c6aborrecerá d
+c1capto c2capta c3captei c4captou c5captarei c6captará d
+c1avisto c2avista c3avistei c4avistou c5avistarei c6avistará d
+c1individualizo c2individualiza c3individualizei c4individualizou c5individualizarei c6individualizará d
+c1convenço c2convence c3convenci c4convenceu c5convencerei c6convencerá d
+c1influencio c2influencia c3influenciei c4influenciou c5influenciarei c6influenciará d
+c1personalizo c2personaliza c3personalizei c4personalizou c5personalizarei c6personalizará d
+c1coloro c2colora c3colorei c4colorou c5colorarei c6colorará d
+c1agarro c2agarra c3agarrei c4agarrou c5agarrarei c6agarrará d
+c1aplaudo c2aplaude c3aplaudi c4aplaudiu c5aplaudirei c6aplaudirá d
+c1aponto c2aponta c3apontei c4apontou c5apontarei c6apontará d
+c1embebo c2embebe c3embebi c4embebeu c5embeberei c6embeberá d
+c1espalho c2espalha c3espalhei c4espalhou c5espalharei c6espalhará d
+c1clamo c2clama c3clamei c4clamou c5clamarei c6clamará d(que)
+c1comento c2comenta c3comentei c4comentou c5comentarei c6comentará d(sobre)
+c1agrado c2agrada c3agradei c4agradou c5agradarei c6agradará d
+c1aviso c2avisa c3avisei c4avisou c5avisarei c6avisará d
+c1discorro c2discorre c3discorri c4discorreu c5discorrerei c6discorrerá d(de)
+c1planejo c2planeja c3planejei c4planejou c5planejarei c6planejará d(de)
+c1achato c2achata c3achatei c4achatou c5achatarei c6achatará d
+c1apresento c2apresenta c3apresentei c4apresentou c5apresentarei c6apresentará d 
+c1omito c2omite c3omiti c4omitiu c5omitirei c6omitirá d
+c1chuto c2chuta c3chutei c4chutou c5chutarei c6chutará d
+c1financio c2financia c3financiei c4financiou c5financiarei c6financiará d
+c1consumo c2consuma c3consumei c4consumou c5consumarei c6consumará d
+c1juro c2jura c3jurei c4jurou c5jurarei c6jurará d(que)
+c1apregoo c2apregoa c3apregoei c4apregoou c5apregoarei c6apregoará d
+c1condiciono c2condiciona c3condicionei c4condicionou c5condicionarei c6condicionará d
+c1peço c2pede c3pedi c4pediu c5pedirei c6pedirá d(a)
+c1prometo c2promete c3prometi c4prometeu c5prometerei c6prometerá d(que)
+c1adéquo c2adéqua c3adequei c4adequou c5adequarei c6adequará m d(a)
+c1abasteço c2abastece c3abasteci c4abasteceu c5abastecerei c6abastecerá d
+c1atinjo c2atinge c3atingi c4atingiu c5atingirei c6atingirá d
+c1comovo c2comove c3comovi c4comoveu c5comoverei c6comoverá m d(com)
+c1percebo c2percebe c3percebi c4percebeu c5perceberei c6perceberá d
+c1batalho c2batalha c3batalhei c4batalhou c5batalharei c6batalhará d(com)
+c1quantifico c2quantifica c3quantifiquei c4quantificou c5quantificarei c6quantificará d
+c1reflito c2reflete c3refleti c4refletiu c5refletirei c6refletirá d(sobre)
+c1danifico c2danifica c3danifiquei c4danificou c5danificarei c6danificará d
+c1pulo c2pula c3pulei c4pulou c5pularei c6pulará d(de)
+c1sujo c2suja c3sujei c4sujou c5sujarei c6sujará d
+c1destruo c2destrói c3destruí c4destruiu c5destruirei c6destruirá d
+c1sofistico c2sofistica c3sofistiquei c4sofisticou c5sofisticarei c6sofisticará d
