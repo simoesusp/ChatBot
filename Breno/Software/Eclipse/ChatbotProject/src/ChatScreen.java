@@ -15,24 +15,23 @@ import javax.swing.border.BevelBorder;
 import javax.swing.border.LineBorder;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.List;
-
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import javax.swing.JEditorPane;
 
 public class ChatScreen extends JFrame {
 
 	private JPanel contentPane;
 	
-	String[][] gen = new String [10][4]; // 10 indivíduos, cada um contendo 3 genes (palavras)
+	String[][] gen = new String [10][4]; // 10 indivíduos, cada um contendo 4 genes (palavras)
 	int[][] posGen = new int [10][4];
 	int[][] newPosGen = new int [10][4];
 	String[][] newGen = new String [10][4];
@@ -49,7 +48,28 @@ public class ChatScreen extends JFrame {
 	 *  - ADICIONAR EMOJIS
 	 */
 	
-	
+	String getVerbsDatabase() {
+		String everything = "";
+		
+		try(BufferedReader br = new BufferedReader(new FileReader("file.txt"))) {
+		    StringBuilder sb = new StringBuilder();
+		    String line = br.readLine();
+
+		    while (line != null) {
+		        sb.append(line);
+		        sb.append(System.lineSeparator());
+		        line = br.readLine();
+		    }
+		    everything = sb.toString();
+
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	    return everything;
+		
+	}
 
 	String[] noun1 = {"menino", "pai", "homem", "tio", "avô", "irmão", "primo", "dia", "sol", "cachorro", "gato",
 	"livro", "instrumento", "violão", "computador", "videogame", "amigo", "teclado", "dedo", "pé", "professor", "giz",
@@ -114,22 +134,22 @@ public class ChatScreen extends JFrame {
 					gen[i][j] = noun2[(int)(Math.random() * 46)];
 					posGen[i][j] = 1;
 				} else if (rand == 2) {
-					gen[i][j] = verb1[(int)(Math.random() * 50)];
+					gen[i][j] = verb1[(int)(Math.random() * 50)]; // VTD NO PASSADO PRIMEIRA PESSOA
 					posGen[i][j] = 2;
 				} else if (rand == 3) {
-					gen[i][j] = verb2[(int)(Math.random() * 50)];
+					gen[i][j] = verb2[(int)(Math.random() * 50)]; // VTD NO PRESENTE PRIMEIRA PESSOA
 					posGen[i][j] = 3;
 				} else if (rand == 4) {
-					gen[i][j] = verb3[(int)(Math.random() * 50)];
+					gen[i][j] = verb3[(int)(Math.random() * 50)]; // VTD NO FUTURO PRIMEIRA PESSOA
 					posGen[i][j] = 4;
 				} else if (rand == 5) {
-					gen[i][j] = verb4[(int)(Math.random() * 50)];
+					gen[i][j] = verb4[(int)(Math.random() * 50)]; // VTD NO PASSADO TERCEIRA PESSOA
 					posGen[i][j] = 5;
 				} else if (rand == 6) {
-					gen[i][j] = verb5[(int)(Math.random() * 50)];
+					gen[i][j] = verb5[(int)(Math.random() * 50)]; // VTD NO PRESENTE TERCEIRA PESSOA
 					posGen[i][j] = 6;
 				} else if (rand == 7) {
-					gen[i][j] = verb6[(int)(Math.random() * 50)];
+					gen[i][j] = verb6[(int)(Math.random() * 50)]; // VTD NO FUTURO TERCEIRA PESSOA
 					posGen[i][j] = 7;
 				} else if (rand == 8) {
 					gen[i][j] = pronoun1[0];
@@ -367,8 +387,6 @@ public class ChatScreen extends JFrame {
 			nextGen();
 			generations++;
 		}
-
-
 		
 		System.out.println(generations);
 		textAreaChat.append("BOT digitou: " + gen[perfect][0] + " "+ gen[perfect][1] + " " + gen[perfect][2] + " " + gen[perfect][3] + "\n\n");
@@ -405,8 +423,6 @@ public class ChatScreen extends JFrame {
 							e1.printStackTrace();
 						}
 				        textArea.setText("");
-				        
-				        
 				        
 						initGenerations();
 						
